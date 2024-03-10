@@ -127,7 +127,7 @@
       "containerId": "D0PwN5fLQww3tVW6sTAoe",
       "originalText": "from ISP",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "rectangle",
@@ -205,7 +205,7 @@
       "containerId": "TXB_Wy0Txiy94rLAcOxD8",
       "originalText": "光纤/光猫",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -261,8 +261,8 @@
     },
     {
       "type": "text",
-      "version": 112,
-      "versionNonce": 1725272154,
+      "version": 115,
+      "versionNonce": 2126525393,
       "isDeleted": false,
       "id": "FBgkUiipIUzdinJH4uhFc",
       "fillStyle": "solid",
@@ -287,7 +287,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891542,
+      "updated": 1710032853795,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -298,7 +298,7 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -696,8 +696,8 @@
     },
     {
       "type": "text",
-      "version": 344,
-      "versionNonce": 1196276294,
+      "version": 347,
+      "versionNonce": 1936354751,
       "isDeleted": false,
       "id": "5AunOEGK8MEOIs3rdpmFW",
       "fillStyle": "solid",
@@ -719,7 +719,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891544,
+      "updated": 1710032853795,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -734,8 +734,8 @@
     },
     {
       "type": "text",
-      "version": 372,
-      "versionNonce": 1765176602,
+      "version": 375,
+      "versionNonce": 554406321,
       "isDeleted": false,
       "id": "PxeykCWU7hGH0lS01CHA5",
       "fillStyle": "solid",
@@ -757,7 +757,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891547,
+      "updated": 1710032853795,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -828,8 +828,8 @@
     },
     {
       "type": "text",
-      "version": 370,
-      "versionNonce": 1131053446,
+      "version": 373,
+      "versionNonce": 1953783263,
       "isDeleted": false,
       "id": "7CFE_2igTlAJoWOrhv1oO",
       "fillStyle": "solid",
@@ -849,7 +849,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891561,
+      "updated": 1710032853796,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -860,12 +860,12 @@
       "containerId": null,
       "originalText": "IP Address：192.168.0.0 - 192.168.255.255",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 968,
-      "versionNonce": 1604108762,
+      "version": 971,
+      "versionNonce": 32519057,
       "isDeleted": false,
       "id": "AIsIiqN8Lc8ZO6um6R2Ko",
       "fillStyle": "solid",
@@ -885,7 +885,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891562,
+      "updated": 1710032853796,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -896,7 +896,7 @@
       "containerId": null,
       "originalText": "1.x -> 192.168.1.x-255",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -1294,8 +1294,8 @@
     },
     {
       "type": "text",
-      "version": 981,
-      "versionNonce": 116154566,
+      "version": 984,
+      "versionNonce": 2064337407,
       "isDeleted": false,
       "id": "sh2gXsKyBd5-hP0nrfxcN",
       "fillStyle": "solid",
@@ -1317,7 +1317,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891564,
+      "updated": 1710032853796,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -1332,8 +1332,8 @@
     },
     {
       "type": "text",
-      "version": 1003,
-      "versionNonce": 1964734106,
+      "version": 1006,
+      "versionNonce": 94738801,
       "isDeleted": false,
       "id": "EmpjLmTWiWT3wmVmxhDkN",
       "fillStyle": "solid",
@@ -1355,7 +1355,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891566,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -1370,8 +1370,8 @@
     },
     {
       "type": "text",
-      "version": 411,
-      "versionNonce": 359684102,
+      "version": 414,
+      "versionNonce": 1143976479,
       "isDeleted": false,
       "id": "Osb-t0QiEyB6yb83SbJTm",
       "fillStyle": "solid",
@@ -1391,7 +1391,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891567,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1402,7 +1402,7 @@
       "containerId": null,
       "originalText": "x.x = ?",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "ellipse",
@@ -1435,8 +1435,8 @@
     },
     {
       "type": "text",
-      "version": 277,
-      "versionNonce": 2053477210,
+      "version": 280,
+      "versionNonce": 494093137,
       "isDeleted": false,
       "id": "aPJRKbEE0FnhQ1Ma16Su6",
       "fillStyle": "solid",
@@ -1456,7 +1456,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891568,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1467,7 +1467,7 @@
       "containerId": null,
       "originalText": "192.168.100.1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -1553,12 +1553,12 @@
       "containerId": "MYTuNvdEHXBsgAecwL-fg",
       "originalText": "路由器 Router",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 358,
-      "versionNonce": 1995663174,
+      "version": 361,
+      "versionNonce": 416421439,
       "isDeleted": false,
       "id": "IeFi2fTTGIDpRN0DfWhM6",
       "fillStyle": "solid",
@@ -1585,7 +1585,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891569,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1596,12 +1596,12 @@
       "containerId": null,
       "originalText": "WAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 293,
-      "versionNonce": 835590170,
+      "version": 296,
+      "versionNonce": 632336689,
       "isDeleted": false,
       "id": "1gaJ-7SKU7rWeDS-u7o0q",
       "fillStyle": "solid",
@@ -1632,7 +1632,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891570,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1643,12 +1643,12 @@
       "containerId": null,
       "originalText": "LAN#1-4",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 471,
-      "versionNonce": 735219334,
+      "version": 474,
+      "versionNonce": 1339225695,
       "isDeleted": false,
       "id": "9f91FpbnuQtncJ2saAoVN",
       "fillStyle": "solid",
@@ -1670,7 +1670,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891570,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1681,12 +1681,12 @@
       "containerId": null,
       "originalText": "WIFI",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 453,
-      "versionNonce": 457704666,
+      "version": 456,
+      "versionNonce": 63267601,
       "isDeleted": false,
       "id": "NPZ3mFzUvAC6ah0kdEIaB",
       "fillStyle": "solid",
@@ -1708,7 +1708,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891571,
+      "updated": 1710032853797,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1719,12 +1719,12 @@
       "containerId": null,
       "originalText": "192.168.1.1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 217,
-      "versionNonce": 550161862,
+      "version": 220,
+      "versionNonce": 268620415,
       "isDeleted": false,
       "id": "Kt6qpfqr90AmdP7HAHbAB",
       "fillStyle": "solid",
@@ -1744,7 +1744,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891573,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 36,
@@ -1755,12 +1755,12 @@
       "containerId": null,
       "originalText": "How do the Local Networks Work",
       "lineHeight": 1.25,
-      "baseline": 32
+      "baseline": 31
     },
     {
       "type": "text",
-      "version": 954,
-      "versionNonce": 1080449434,
+      "version": 957,
+      "versionNonce": 69785841,
       "isDeleted": false,
       "id": "GO-g4h83rw2l-wQ3V4-CJ",
       "fillStyle": "solid",
@@ -1780,7 +1780,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891575,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1791,12 +1791,12 @@
       "containerId": null,
       "originalText": "192.168.1.xxx   255 Devices",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 690,
-      "versionNonce": 586753286,
+      "version": 693,
+      "versionNonce": 1377970847,
       "isDeleted": false,
       "id": "mOSvyMinufxMqaM42zoXo",
       "fillStyle": "solid",
@@ -1816,7 +1816,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891576,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1827,12 +1827,12 @@
       "containerId": null,
       "originalText": "2.x -> 192.168.2.x-255",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 735,
-      "versionNonce": 6035034,
+      "version": 738,
+      "versionNonce": 2019726033,
       "isDeleted": false,
       "id": "Jbr5crXefyBXIdLW07V5n",
       "fillStyle": "solid",
@@ -1852,7 +1852,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891576,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1863,12 +1863,12 @@
       "containerId": null,
       "originalText": "192.168.1.101",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 194,
-      "versionNonce": 1406833734,
+      "version": 197,
+      "versionNonce": 585203391,
       "isDeleted": false,
       "id": "g4ojnxHZmgzvBKVPiF4wJ",
       "fillStyle": "solid",
@@ -1888,7 +1888,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891577,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1899,12 +1899,12 @@
       "containerId": null,
       "originalText": "PPPoE",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 274,
-      "versionNonce": 1543256858,
+      "version": 277,
+      "versionNonce": 352981169,
       "isDeleted": false,
       "id": "NSMqQ5rWSxQ-VmCntWQtY",
       "fillStyle": "solid",
@@ -1924,7 +1924,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891577,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1935,12 +1935,12 @@
       "containerId": null,
       "originalText": "Public IP Address: xxx.xxx.xxx.xxx",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 308,
-      "versionNonce": 491527046,
+      "version": 311,
+      "versionNonce": 618745567,
       "isDeleted": false,
       "id": "S7God1sEf_sGLBVBMgbo0",
       "fillStyle": "solid",
@@ -1960,7 +1960,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891578,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -1971,7 +1971,7 @@
       "containerId": null,
       "originalText": "Super Password can change the model into bridge mode \nthen let the router to take over PPPoE",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 42
     },
     {
       "type": "rectangle",
@@ -2073,7 +2073,7 @@
       "containerId": "juwpw3jDx3lbVtnRGv5UU",
       "originalText": "交换机 Switch + 24 LAN (s) 1-to-M",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -2531,8 +2531,8 @@
     },
     {
       "type": "text",
-      "version": 914,
-      "versionNonce": 1102694362,
+      "version": 917,
+      "versionNonce": 264688273,
       "isDeleted": false,
       "id": "uE4n3XclIgJJwhKBCT3HQ",
       "fillStyle": "solid",
@@ -2554,7 +2554,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891578,
+      "updated": 1710032853798,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -2569,8 +2569,8 @@
     },
     {
       "type": "text",
-      "version": 938,
-      "versionNonce": 629848774,
+      "version": 941,
+      "versionNonce": 1387404031,
       "isDeleted": false,
       "id": "5IfhH0Zin9Ifhzqldr5HL",
       "fillStyle": "solid",
@@ -2592,7 +2592,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891578,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -3010,8 +3010,8 @@
     },
     {
       "type": "text",
-      "version": 937,
-      "versionNonce": 1504165018,
+      "version": 940,
+      "versionNonce": 2102417521,
       "isDeleted": false,
       "id": "M9A3hKnKg_Lq0ZtIGR-lO",
       "fillStyle": "solid",
@@ -3033,7 +3033,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891578,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -3048,8 +3048,8 @@
     },
     {
       "type": "text",
-      "version": 961,
-      "versionNonce": 1127444998,
+      "version": 964,
+      "versionNonce": 13919007,
       "isDeleted": false,
       "id": "8zfqssErAZVaDGO0IZWiZ",
       "fillStyle": "solid",
@@ -3071,7 +3071,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891579,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -3086,8 +3086,8 @@
     },
     {
       "type": "text",
-      "version": 1063,
-      "versionNonce": 1366890842,
+      "version": 1066,
+      "versionNonce": 1869488721,
       "isDeleted": false,
       "id": "WrHay0Brg5l7leDLuWkmq",
       "fillStyle": "solid",
@@ -3107,7 +3107,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891579,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3118,12 +3118,12 @@
       "containerId": null,
       "originalText": "192.168.1.102",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 1173,
-      "versionNonce": 1900233030,
+      "version": 1176,
+      "versionNonce": 532195135,
       "isDeleted": false,
       "id": "ppwQJIWoduMUpEUnw0th4",
       "fillStyle": "solid",
@@ -3143,7 +3143,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891580,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3154,12 +3154,12 @@
       "containerId": null,
       "originalText": "192.168.1.103",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 237,
-      "versionNonce": 679534106,
+      "version": 240,
+      "versionNonce": 1391964209,
       "isDeleted": false,
       "id": "WihoFfUj55tN29MLKIC22",
       "fillStyle": "solid",
@@ -3184,7 +3184,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891581,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3195,7 +3195,7 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -3355,8 +3355,8 @@
     },
     {
       "type": "text",
-      "version": 1175,
-      "versionNonce": 1125591174,
+      "version": 1178,
+      "versionNonce": 1035954015,
       "isDeleted": false,
       "id": "Y9D8a5HTZcERIwlcM48ty",
       "fillStyle": "solid",
@@ -3376,7 +3376,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891582,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3387,7 +3387,7 @@
       "containerId": null,
       "originalText": "192.168.1.104",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -3565,12 +3565,12 @@
       "containerId": "6JPys8XlLEUsFV5120oTS",
       "originalText": "Wireless Access Point （AP）",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 330,
-      "versionNonce": 2075265754,
+      "version": 333,
+      "versionNonce": 232030737,
       "isDeleted": false,
       "id": "-zkQ5kDFoHp7ux-hjXS2V",
       "fillStyle": "solid",
@@ -3597,7 +3597,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891583,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3608,12 +3608,12 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 577,
-      "versionNonce": 1483483078,
+      "version": 580,
+      "versionNonce": 1228481407,
       "isDeleted": false,
       "id": "2vpQYNyKKRomMGr5B7j_7",
       "fillStyle": "solid",
@@ -3635,7 +3635,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891584,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3646,7 +3646,7 @@
       "containerId": null,
       "originalText": "192.168.1.2",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -3724,12 +3724,12 @@
       "containerId": "D_Qak8M2HhVyEjmEjVpr8",
       "originalText": "Wireless AP",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 437,
-      "versionNonce": 1369415578,
+      "version": 440,
+      "versionNonce": 1560025073,
       "isDeleted": false,
       "id": "o7ehX8feFxqkNscwF4JZr",
       "fillStyle": "solid",
@@ -3751,7 +3751,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891585,
+      "updated": 1710032853799,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3762,12 +3762,12 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 692,
-      "versionNonce": 1365196550,
+      "version": 695,
+      "versionNonce": 308698015,
       "isDeleted": false,
       "id": "12f5dZPqJRAdOb38j0smS",
       "fillStyle": "solid",
@@ -3789,7 +3789,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891586,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3800,7 +3800,7 @@
       "containerId": null,
       "originalText": "192.168.1.3",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -3878,12 +3878,12 @@
       "containerId": "9HglrMhkn-R_H4qbOt2OY",
       "originalText": "Wireless AP",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 424,
-      "versionNonce": 1719442522,
+      "version": 427,
+      "versionNonce": 1920332241,
       "isDeleted": false,
       "id": "AMVI035Urv-TKCuyWozEv",
       "fillStyle": "solid",
@@ -3910,7 +3910,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891586,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3921,12 +3921,12 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 679,
-      "versionNonce": 1114467910,
+      "version": 682,
+      "versionNonce": 225939391,
       "isDeleted": false,
       "id": "4IwiRspt8_8Xeq_0Iwtce",
       "fillStyle": "solid",
@@ -3948,7 +3948,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891586,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -3959,7 +3959,7 @@
       "containerId": null,
       "originalText": "192.168.1.4",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -4044,8 +4044,8 @@
     },
     {
       "type": "text",
-      "version": 88,
-      "versionNonce": 2015101210,
+      "version": 91,
+      "versionNonce": 1398378417,
       "isDeleted": false,
       "id": "aKg_WxHla9LXlctr9ei1V",
       "fillStyle": "solid",
@@ -4065,7 +4065,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891586,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4076,7 +4076,7 @@
       "containerId": null,
       "originalText": "Level 1 Zone A",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -4109,8 +4109,8 @@
     },
     {
       "type": "text",
-      "version": 114,
-      "versionNonce": 678671750,
+      "version": 117,
+      "versionNonce": 1418543071,
       "isDeleted": false,
       "id": "o0XH6UmKTiu2PjGl-RjCH",
       "fillStyle": "solid",
@@ -4130,7 +4130,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891587,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4141,7 +4141,7 @@
       "containerId": null,
       "originalText": "Level 1 Zone B",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -4174,8 +4174,8 @@
     },
     {
       "type": "text",
-      "version": 293,
-      "versionNonce": 300994010,
+      "version": 296,
+      "versionNonce": 1976463761,
       "isDeleted": false,
       "id": "e2-YEfIfmmVCbQKMG_Ior",
       "fillStyle": "solid",
@@ -4195,7 +4195,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891587,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4206,7 +4206,7 @@
       "containerId": null,
       "originalText": "Level 1 Zone C",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -4286,12 +4286,12 @@
       "containerId": "V7W1xLd5zBZ1o1EH0jPCy",
       "originalText": "Lever 2 路由器 Router#2",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 640,
-      "versionNonce": 1554977990,
+      "version": 643,
+      "versionNonce": 1773661183,
       "isDeleted": false,
       "id": "RQvNMAhzVCBXMo6Zo6ReL",
       "fillStyle": "solid",
@@ -4314,7 +4314,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891587,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4325,12 +4325,12 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 783,
-      "versionNonce": 1494090394,
+      "version": 786,
+      "versionNonce": 520886129,
       "isDeleted": false,
       "id": "_2ZWXyTM5xLfV8itMiffT",
       "fillStyle": "solid",
@@ -4352,7 +4352,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891588,
+      "updated": 1710032853800,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4363,7 +4363,7 @@
       "containerId": null,
       "originalText": "192.168.1.254",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -4423,8 +4423,8 @@
     },
     {
       "type": "text",
-      "version": 421,
-      "versionNonce": 146574342,
+      "version": 424,
+      "versionNonce": 955782175,
       "isDeleted": false,
       "id": "tMcbP5XC4UDjsCC44pF0u",
       "fillStyle": "solid",
@@ -4449,7 +4449,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891588,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4460,7 +4460,7 @@
       "containerId": null,
       "originalText": " \nPC#4 use Router#2 as Internet Gateway  \n\nIP:     192.168.1.104\nMask： 255.255.255.0\nDNS:   192.168.1.254",
       "lineHeight": 1.25,
-      "baseline": 143
+      "baseline": 142
     },
     {
       "type": "arrow",
@@ -4520,8 +4520,8 @@
     },
     {
       "type": "text",
-      "version": 97,
-      "versionNonce": 1478926170,
+      "version": 100,
+      "versionNonce": 22675793,
       "isDeleted": false,
       "id": "PZ9zvnIwlEyXntysTxQfQ",
       "fillStyle": "solid",
@@ -4541,7 +4541,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891588,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4552,7 +4552,7 @@
       "containerId": null,
       "originalText": "-> 192.168.1.1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -4696,8 +4696,8 @@
     },
     {
       "type": "text",
-      "version": 376,
-      "versionNonce": 446241606,
+      "version": 379,
+      "versionNonce": 1514027071,
       "isDeleted": false,
       "id": "7f9PiTiDD84etN0UsXjnC",
       "fillStyle": "solid",
@@ -4717,7 +4717,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891589,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4728,12 +4728,12 @@
       "containerId": null,
       "originalText": "Special Service",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 472,
-      "versionNonce": 1267573786,
+      "version": 475,
+      "versionNonce": 437235505,
       "isDeleted": false,
       "id": "QBBop3f1PQUi4vcm_pdu6",
       "fillStyle": "solid",
@@ -4753,7 +4753,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891589,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4764,12 +4764,12 @@
       "containerId": null,
       "originalText": "DNS Cache",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 613,
-      "versionNonce": 950125190,
+      "version": 616,
+      "versionNonce": 325769311,
       "isDeleted": false,
       "id": "1McV4NqStc92ssHCZqAAX",
       "fillStyle": "solid",
@@ -4789,7 +4789,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891589,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4800,7 +4800,7 @@
       "containerId": null,
       "originalText": "i.e., DNS",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -4890,12 +4890,12 @@
       "containerId": "DqqLWuw-5Q7zv4LCfNZPg",
       "originalText": "路由器 Router",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 514,
-      "versionNonce": 1832259802,
+      "version": 517,
+      "versionNonce": 1335140625,
       "isDeleted": false,
       "id": "raEo08cEptZn0rSDxmcwW",
       "fillStyle": "solid",
@@ -4922,7 +4922,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891590,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4933,12 +4933,12 @@
       "containerId": null,
       "originalText": "WAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 448,
-      "versionNonce": 898859462,
+      "version": 451,
+      "versionNonce": 441349247,
       "isDeleted": false,
       "id": "0ZbCEkLJAUoUt8UEiDK0w",
       "fillStyle": "solid",
@@ -4960,7 +4960,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891590,
+      "updated": 1710032853801,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -4971,12 +4971,12 @@
       "containerId": null,
       "originalText": "LAN#1-4",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 626,
-      "versionNonce": 1085466010,
+      "version": 629,
+      "versionNonce": 1331713777,
       "isDeleted": false,
       "id": "rJXyw6pjI_XexeMnEUfh6",
       "fillStyle": "solid",
@@ -4998,7 +4998,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891590,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5009,12 +5009,12 @@
       "containerId": null,
       "originalText": "WIFI",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 611,
-      "versionNonce": 76241158,
+      "version": 614,
+      "versionNonce": 380210335,
       "isDeleted": false,
       "id": "5mwsiGVMyZ3ZjK3Fj9i99",
       "fillStyle": "solid",
@@ -5036,7 +5036,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891590,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5047,7 +5047,7 @@
       "containerId": null,
       "originalText": "192.168.2.1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -5507,8 +5507,8 @@
     },
     {
       "type": "text",
-      "version": 478,
-      "versionNonce": 1597448794,
+      "version": 481,
+      "versionNonce": 737824977,
       "isDeleted": false,
       "id": "ci410yewA0fQn6Txo3AKi",
       "fillStyle": "solid",
@@ -5530,7 +5530,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891591,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -5545,8 +5545,8 @@
     },
     {
       "type": "text",
-      "version": 506,
-      "versionNonce": 755386438,
+      "version": 509,
+      "versionNonce": 1680646335,
       "isDeleted": false,
       "id": "6Jp5qj9zcoHrrTawlYvW1",
       "fillStyle": "solid",
@@ -5568,7 +5568,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891591,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -5583,8 +5583,8 @@
     },
     {
       "type": "text",
-      "version": 903,
-      "versionNonce": 1133889306,
+      "version": 906,
+      "versionNonce": 989466289,
       "isDeleted": false,
       "id": "WfLFVMpKWVIe6HdTD8F1V",
       "fillStyle": "solid",
@@ -5604,7 +5604,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891591,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -5615,7 +5615,7 @@
       "containerId": null,
       "originalText": "192.168.2.101",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -6013,8 +6013,8 @@
     },
     {
       "type": "text",
-      "version": 1193,
-      "versionNonce": 1054953350,
+      "version": 1196,
+      "versionNonce": 343421151,
       "isDeleted": false,
       "id": "9jzUa6tzteO_BMnetCXEA",
       "fillStyle": "solid",
@@ -6036,7 +6036,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891591,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -6051,8 +6051,8 @@
     },
     {
       "type": "text",
-      "version": 1215,
-      "versionNonce": 373412826,
+      "version": 1218,
+      "versionNonce": 856101009,
       "isDeleted": false,
       "id": "tsyH2n9uFkkPq3SqIvnBp",
       "fillStyle": "solid",
@@ -6074,7 +6074,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891592,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -6483,8 +6483,8 @@
     },
     {
       "type": "text",
-      "version": 1126,
-      "versionNonce": 1180266182,
+      "version": 1129,
+      "versionNonce": 823966975,
       "isDeleted": false,
       "id": "pYMfDOQOy5YoWTJqKn96I",
       "fillStyle": "solid",
@@ -6506,7 +6506,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891592,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -6521,8 +6521,8 @@
     },
     {
       "type": "text",
-      "version": 1150,
-      "versionNonce": 2035173530,
+      "version": 1153,
+      "versionNonce": 165205617,
       "isDeleted": false,
       "id": "e5vdfY4Pr80YtmHzegOzS",
       "fillStyle": "solid",
@@ -6544,7 +6544,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891592,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -6953,8 +6953,8 @@
     },
     {
       "type": "text",
-      "version": 1149,
-      "versionNonce": 1074505222,
+      "version": 1152,
+      "versionNonce": 1033553183,
       "isDeleted": false,
       "id": "z-wNuY78tU63C-xcLhCZS",
       "fillStyle": "solid",
@@ -6976,7 +6976,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891592,
+      "updated": 1710032853802,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -6991,8 +6991,8 @@
     },
     {
       "type": "text",
-      "version": 1173,
-      "versionNonce": 1416504666,
+      "version": 1176,
+      "versionNonce": 305586257,
       "isDeleted": false,
       "id": "ME7qKg6LJOz1XCwoiMU2N",
       "fillStyle": "solid",
@@ -7014,7 +7014,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891593,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -7029,8 +7029,8 @@
     },
     {
       "type": "text",
-      "version": 1278,
-      "versionNonce": 217380166,
+      "version": 1281,
+      "versionNonce": 2036517183,
       "isDeleted": false,
       "id": "pMNnyBa4mp1ljBg4QeWrY",
       "fillStyle": "solid",
@@ -7050,7 +7050,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891593,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7061,12 +7061,12 @@
       "containerId": null,
       "originalText": "192.168.2.102",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 1388,
-      "versionNonce": 552888858,
+      "version": 1391,
+      "versionNonce": 1509469745,
       "isDeleted": false,
       "id": "fKMyrUeBtHC72OoKC3jT9",
       "fillStyle": "solid",
@@ -7086,7 +7086,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891593,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7097,7 +7097,7 @@
       "containerId": null,
       "originalText": "192.168.2.103",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -7191,7 +7191,7 @@
       "containerId": "K0uXAcwnOZkFh4SN6ZuvV",
       "originalText": "交换机 Switch + 24 LAN (s) 1-to-M",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "arrow",
@@ -7445,8 +7445,8 @@
     },
     {
       "type": "text",
-      "version": 1425,
-      "versionNonce": 1718770822,
+      "version": 1428,
+      "versionNonce": 1641367903,
       "isDeleted": false,
       "id": "w3aQM8s4hTp5qf9nuF13w",
       "fillStyle": "solid",
@@ -7466,7 +7466,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891593,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7477,7 +7477,7 @@
       "containerId": null,
       "originalText": "192.168.2.104",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -7551,12 +7551,12 @@
       "containerId": "QdK1KH11qitxGVL2O2TfF",
       "originalText": "Wireless Access Point （AP）",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 491,
-      "versionNonce": 903091930,
+      "version": 494,
+      "versionNonce": 1208336401,
       "isDeleted": false,
       "id": "tNVm1-c-X5z6MWJk3zaZS",
       "fillStyle": "solid",
@@ -7583,7 +7583,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891594,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7594,12 +7594,12 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 740,
-      "versionNonce": 1379982278,
+      "version": 743,
+      "versionNonce": 1950532991,
       "isDeleted": false,
       "id": "G3ryJCEXuZ-Jzvm4c0teW",
       "fillStyle": "solid",
@@ -7621,7 +7621,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891594,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7632,7 +7632,7 @@
       "containerId": null,
       "originalText": "192.168.2.2",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -7670,8 +7670,8 @@
     },
     {
       "type": "text",
-      "version": 249,
-      "versionNonce": 329264026,
+      "version": 252,
+      "versionNonce": 2052429297,
       "isDeleted": false,
       "id": "BmxLdXLRMXFAiyTjv5ipi",
       "fillStyle": "solid",
@@ -7691,7 +7691,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891594,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -7702,7 +7702,7 @@
       "containerId": null,
       "originalText": "Level 2 Zone A",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -7855,7 +7855,7 @@
       "containerId": "pLMrc5hrYLxyZ3kPp6axk",
       "originalText": "DHCP Server\n \n\n192.168.1.100-1.200\n\nGate 192.168.1.254\nDNS: 192.168.1.254\n...",
       "lineHeight": 1.25,
-      "baseline": 193
+      "baseline": 194
     },
     {
       "type": "line",
@@ -7973,12 +7973,12 @@
       "containerId": "mxzrNHamu8376_fKTOC-Q",
       "originalText": "Wireless Access Point （AP）",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 517,
-      "versionNonce": 377320198,
+      "version": 520,
+      "versionNonce": 803978655,
       "isDeleted": false,
       "id": "izAKocn1oRg2hfHdl0WTa",
       "fillStyle": "solid",
@@ -8005,7 +8005,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891594,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8016,12 +8016,12 @@
       "containerId": null,
       "originalText": "LAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 768,
-      "versionNonce": 814458970,
+      "version": 771,
+      "versionNonce": 1676652497,
       "isDeleted": false,
       "id": "9Rmu3bvC3L3zWhyCt_vNf",
       "fillStyle": "solid",
@@ -8043,7 +8043,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891595,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8054,7 +8054,7 @@
       "containerId": null,
       "originalText": "192.168.2.3",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -8092,8 +8092,8 @@
     },
     {
       "type": "text",
-      "version": 277,
-      "versionNonce": 765796934,
+      "version": 280,
+      "versionNonce": 1476440511,
       "isDeleted": false,
       "id": "syIsoC-3LSZDGUpzYj1mV",
       "fillStyle": "solid",
@@ -8113,7 +8113,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891595,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8124,7 +8124,7 @@
       "containerId": null,
       "originalText": "Level 2 Zone B",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -8252,12 +8252,12 @@
       "containerId": "KZsGAtIDW6ri21kibbWzc",
       "originalText": "路由器 Router",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 19
     },
     {
       "type": "text",
-      "version": 612,
-      "versionNonce": 1147768090,
+      "version": 615,
+      "versionNonce": 720080305,
       "isDeleted": false,
       "id": "d5Y-A6kg9-gF93_Vwjkse",
       "fillStyle": "solid",
@@ -8284,7 +8284,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891595,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8295,12 +8295,12 @@
       "containerId": null,
       "originalText": "WAN",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 546,
-      "versionNonce": 982837638,
+      "version": 549,
+      "versionNonce": 1973559775,
       "isDeleted": false,
       "id": "WKLmgcE7JZARYNU4GrK1X",
       "fillStyle": "solid",
@@ -8327,7 +8327,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891595,
+      "updated": 1710032853803,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8338,12 +8338,12 @@
       "containerId": null,
       "originalText": "LAN#1-4",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 723,
-      "versionNonce": 346872282,
+      "version": 726,
+      "versionNonce": 1181790097,
       "isDeleted": false,
       "id": "91CnMobTgAumWwcSh2Jdf",
       "fillStyle": "solid",
@@ -8365,7 +8365,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891596,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8376,12 +8376,12 @@
       "containerId": null,
       "originalText": "WIFI",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 712,
-      "versionNonce": 2089404614,
+      "version": 715,
+      "versionNonce": 434146815,
       "isDeleted": false,
       "id": "LZgaHq1q6A93TrYyhmLLP",
       "fillStyle": "solid",
@@ -8403,7 +8403,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891596,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -8414,7 +8414,7 @@
       "containerId": null,
       "originalText": "192.168.3.1",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "rectangle",
@@ -8899,8 +8899,8 @@
     },
     {
       "type": "text",
-      "version": 461,
-      "versionNonce": 1080594074,
+      "version": 464,
+      "versionNonce": 1555469681,
       "isDeleted": false,
       "id": "uzo0JmNCZRBSBMbMu94ma",
       "fillStyle": "solid",
@@ -8922,7 +8922,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891596,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -8937,8 +8937,8 @@
     },
     {
       "type": "text",
-      "version": 489,
-      "versionNonce": 1126219782,
+      "version": 492,
+      "versionNonce": 1606186527,
       "isDeleted": false,
       "id": "uNERJfGUTygZiKklDIDLz",
       "fillStyle": "solid",
@@ -8960,7 +8960,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891596,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -8975,8 +8975,8 @@
     },
     {
       "type": "text",
-      "version": 893,
-      "versionNonce": 206547802,
+      "version": 896,
+      "versionNonce": 1627701073,
       "isDeleted": false,
       "id": "uQ9sVcVPH4jaUKOQRu06E",
       "fillStyle": "solid",
@@ -8996,7 +8996,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891597,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9007,7 +9007,7 @@
       "containerId": null,
       "originalText": "192.168.3.101",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -9061,8 +9061,8 @@
     },
     {
       "type": "text",
-      "version": 790,
-      "versionNonce": 1649856326,
+      "version": 793,
+      "versionNonce": 774265407,
       "isDeleted": false,
       "id": "HzgaFZvA-DPsC6Vsq9tWT",
       "fillStyle": "solid",
@@ -9082,7 +9082,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1709514891597,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -9093,7 +9093,7 @@
       "containerId": null,
       "originalText": "192.168.1.x",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "line",
@@ -10443,8 +10443,8 @@
     },
     {
       "type": "text",
-      "version": 722,
-      "versionNonce": 783626266,
+      "version": 725,
+      "versionNonce": 1907535153,
       "isDeleted": false,
       "id": "VGi9AvU8TMYgW5ANJpHQu",
       "fillStyle": "hachure",
@@ -10475,7 +10475,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1709514891597,
+      "updated": 1710032853804,
       "link": null,
       "locked": false,
       "fontSize": 18.5727857083949,
