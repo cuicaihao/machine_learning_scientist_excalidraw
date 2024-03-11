@@ -1,6 +1,6 @@
 # Machine Learning Scientist: Store Telling
 
-![](images/Gemini_Generated_Image.jpeg)
+![header-image](images/Gemini_Generated_Image.jpeg)
 
 ## Reasons
 
