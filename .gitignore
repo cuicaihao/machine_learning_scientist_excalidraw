@@ -163,3 +163,8 @@ cython_debug/
 .DS_Store
 *.csv
 *.png
+
+
+notebooks/*.py 
+notebooks/*.txt
+notebooks/archive
