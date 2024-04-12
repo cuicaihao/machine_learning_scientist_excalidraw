@@ -22,7 +22,7 @@ google-pasta==0.2.0
 grpcio==1.62.0
 h5py==3.10.0
 identify==2.5.35
-idna==3.6
+idna==3.7
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1709821103657/work
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1708996616394/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1709559745751/work
