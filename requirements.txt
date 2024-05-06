@@ -27,7 +27,7 @@ importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib
 ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1708996616394/work
 ipython @ file:///home/conda/feedstock_root/build_artifacts/ipython_1709559745751/work
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
-Jinja2==3.1.3
+Jinja2==3.1.4
 jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1699283905679/work
 jupyter_core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_782yoyc_98/croot/jupyter_core_1698937318631/work
 keras==2.15.0
