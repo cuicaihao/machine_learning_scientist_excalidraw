@@ -86,6 +86,6 @@ tzdata==2024.1
 urllib3==2.2.1
 virtualenv==20.25.1
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
-Werkzeug==3.0.1
+Werkzeug==3.0.3
 wrapt==1.14.1
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work
