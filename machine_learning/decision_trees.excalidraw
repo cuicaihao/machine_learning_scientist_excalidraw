@@ -77,7 +77,7 @@
       "containerId": "S0CG50sPPTOR9Jd6qD3kV",
       "originalText": "feature 1 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "line",
@@ -10252,7 +10252,7 @@
       "containerId": null,
       "originalText": "I  am Groot!\n  aka. Tree, Yo!",
       "lineHeight": 1.25,
-      "baseline": 43
+      "baseline": 41
     },
     {
       "type": "text",
@@ -10288,7 +10288,7 @@
       "containerId": null,
       "originalText": "Machine Learning: Decision Tree",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "text",
@@ -10324,7 +10324,7 @@
       "containerId": null,
       "originalText": " -- Splitting datasets one feature at a time",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "rectangle",
@@ -10389,7 +10389,7 @@
       "containerId": null,
       "originalText": "Part 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -10454,7 +10454,7 @@
       "containerId": null,
       "originalText": "Part 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -10519,7 +10519,7 @@
       "containerId": null,
       "originalText": "Part 3",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -10589,7 +10589,7 @@
       "containerId": "FR0loWmj4FIJgNI41tomk",
       "originalText": "ID3",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -10659,7 +10659,7 @@
       "containerId": "70vQPU7-cbbAw6_RlqhmX",
       "originalText": "C4.5",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -10729,7 +10729,7 @@
       "containerId": "6_ysYo5ljKULqQsvL-Vaz",
       "originalText": "CART",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -10799,7 +10799,7 @@
       "containerId": "7lTWsoME_p2bicIAazCep",
       "originalText": "RF\nRandom Forest",
       "lineHeight": 1.25,
-      "baseline": 55
+      "baseline": 54
     },
     {
       "type": "rectangle",
@@ -10869,7 +10869,7 @@
       "containerId": "IjM8uq1b7PDFIyHl2p6ZE",
       "originalText": "\nGBDT\n\nGradient Boosted Desicion Tree",
       "lineHeight": 1.25,
-      "baseline": 115
+      "baseline": 114
     },
     {
       "type": "rectangle",
@@ -10939,7 +10939,7 @@
       "containerId": "VCFKZc-_xR3wO5WuW3u0Q",
       "originalText": "XGBoost",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -11009,7 +11009,7 @@
       "containerId": "CVACfnKvR6kPK1EMkpXxE",
       "originalText": "LightGBM",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -11045,7 +11045,7 @@
       "containerId": null,
       "originalText": "Foundation: \n    - Theory\n    - Methodology\n    - Tree Construction\n    - Pros/Cons   ",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "text",
@@ -11081,7 +11081,7 @@
       "containerId": null,
       "originalText": "Machine Learning: Decision Tree / Part 1",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "text",
@@ -11117,7 +11117,7 @@
       "containerId": null,
       "originalText": "Idea: Occam's razor",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "line",
@@ -11231,7 +11231,7 @@
       "containerId": "bxHj2jteekQrMyEPaexZk",
       "originalText": "ID3: Iterative Dichotomiser 3",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -12779,7 +12779,7 @@
       "containerId": null,
       "originalText": "Splitting dataset one feature at a time to \n        - maximise information gain\n        - minimise the impurity (Uncertainty)",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "arrow",
@@ -12872,7 +12872,7 @@
       "containerId": null,
       "originalText": "Swimming in Water",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -12913,7 +12913,7 @@
       "containerId": null,
       "originalText": "Has Flippers",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -13058,7 +13058,7 @@
       "containerId": null,
       "originalText": "Fish ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -13094,7 +13094,7 @@
       "containerId": null,
       "originalText": "Step 1: Splitting the dataset by each feature ",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -13130,7 +13130,7 @@
       "containerId": null,
       "originalText": "On Feature 1",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -13166,7 +13166,7 @@
       "containerId": null,
       "originalText": "On Feature 2",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -13231,7 +13231,7 @@
       "containerId": null,
       "originalText": "  =",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -13296,7 +13296,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "ellipse",
@@ -13477,7 +13477,7 @@
       "containerId": null,
       "originalText": "featuer 2 =",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -13513,7 +13513,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "ellipse",
@@ -13928,7 +13928,7 @@
       "containerId": null,
       "originalText": "(1, 3)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -13964,7 +13964,7 @@
       "containerId": null,
       "originalText": "(0, 2)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -14000,7 +14000,7 @@
       "containerId": null,
       "originalText": "(2, 3)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -14036,7 +14036,7 @@
       "containerId": null,
       "originalText": "(1, 0)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -14072,7 +14072,7 @@
       "containerId": null,
       "originalText": "Entropy = - (3/6)log2(3/6) - (3/6)log2(3/6) =  1.0\n\nGini =  1 - (3/6)^2 - (3/6)^2 = 0.5\n\nMissClassification Error = 1 - max(3/6, 3/6) = 0.5 ",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "ellipse",
@@ -14253,7 +14253,7 @@
       "containerId": null,
       "originalText": "target\nC1:\nC0:",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "text",
@@ -14289,7 +14289,7 @@
       "containerId": null,
       "originalText": "(3, 3)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -15037,7 +15037,7 @@
       "containerId": null,
       "originalText": "(2, 0)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -15192,7 +15192,7 @@
       "containerId": null,
       "originalText": "(1, 3)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -15260,7 +15260,7 @@
       "containerId": null,
       "originalText": "target\nC1:\nC0:",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "text",
@@ -15296,7 +15296,7 @@
       "containerId": null,
       "originalText": "target\nC1:\nC0:",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "line",
@@ -15523,7 +15523,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -15566,7 +15566,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -15609,7 +15609,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -15647,7 +15647,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -15685,7 +15685,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n4\n5\n6",
       "lineHeight": 1.25,
-      "baseline": 201
+      "baseline": 200
     },
     {
       "type": "ellipse",
@@ -16496,7 +16496,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -16534,7 +16534,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -16572,7 +16572,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -16610,7 +16610,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -16648,7 +16648,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n4\n5\n6",
       "lineHeight": 1.25,
-      "baseline": 201
+      "baseline": 200
     },
     {
       "type": "ellipse",
@@ -17459,7 +17459,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -17497,7 +17497,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -17535,7 +17535,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -17573,7 +17573,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -17611,7 +17611,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n4\n5\n6",
       "lineHeight": 1.25,
-      "baseline": 201
+      "baseline": 200
     },
     {
       "type": "ellipse",
@@ -18323,7 +18323,7 @@
       "containerId": null,
       "originalText": "Yes: 1",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -18359,7 +18359,7 @@
       "containerId": null,
       "originalText": "No: 0",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -18395,7 +18395,7 @@
       "containerId": null,
       "originalText": "Count (No, Yes)",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -18431,7 +18431,7 @@
       "containerId": null,
       "originalText": "Count (No, Yes)",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -18467,7 +18467,7 @@
       "containerId": null,
       "originalText": "Count (No, Yes)",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "ellipse",
@@ -18532,7 +18532,7 @@
       "containerId": null,
       "originalText": "featuer 1 = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -18597,7 +18597,7 @@
       "containerId": null,
       "originalText": "Entropy = - (1/4)log2(1/4) - (3/4)log2(3/4) =  0.811\n\nGini = 1 - (1/4)^2 - (3/4)^2 = 0.375\n\nMissClassification Error = 1 - max(1/4, 3/4) = 0.25",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "text",
@@ -18633,7 +18633,7 @@
       "containerId": null,
       "originalText": "Entropy = - (2/2)log2(2/2) - 0log2(0) = 0 \n\nGini = - (0/2)^2 - (0/0)^2 = 0\n\nMissClassification Error = 1 - max(2/2, 0) = 0",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "line",
@@ -18713,7 +18713,7 @@
       "containerId": null,
       "originalText": "Entropy = 1.0\n\nGini index = 0.5\n\nMissClassification Error = 0.5 ",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "ellipse",
@@ -18894,7 +18894,7 @@
       "containerId": null,
       "originalText": "target\nC1:\nC0:",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "text",
@@ -18930,7 +18930,7 @@
       "containerId": null,
       "originalText": "(3, 3)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -19649,7 +19649,7 @@
       "containerId": null,
       "originalText": "(1, 0)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -19804,7 +19804,7 @@
       "containerId": null,
       "originalText": "(2, 3)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -19872,7 +19872,7 @@
       "containerId": null,
       "originalText": "target\nC1:\nC0:",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "text",
@@ -19908,7 +19908,7 @@
       "containerId": null,
       "originalText": "target\nC1:\nC0:",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "ellipse",
@@ -19973,7 +19973,7 @@
       "containerId": null,
       "originalText": "Count (No, Yes)",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "ellipse",
@@ -20038,7 +20038,7 @@
       "containerId": null,
       "originalText": "featuer 2 = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "diamond",
@@ -20132,7 +20132,7 @@
       "containerId": null,
       "originalText": "Entropy = 0\n\nGini = 0\n\nMissClassification Error = 0 ",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "text",
@@ -20168,7 +20168,7 @@
       "containerId": null,
       "originalText": "Entropy = - (2/5)log2(2/5) - (3/5)log2(3/5) =  0.835\n\nGini = 1 - (2/5)^2 - (3/5)^2 = 0.48\n\nMissClassification Error = 1 - max(2/5, 3/5) = 0.40",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "text",
@@ -20204,7 +20204,7 @@
       "containerId": null,
       "originalText": "Step 2: Find the best Split by Computing the Information Gain  ",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "line",
@@ -20284,7 +20284,7 @@
       "containerId": null,
       "originalText": "Information Gain = before - after \n\nEntropy = 1.0 - 0.811*(4/6) - 0 * (2/6) =  0.459\nGini.    = 0.5 - 0.375 * (4/6) - 0 * (2/6) =  0.125    \nMissClassification Error = 0.5 - 0.25 * (4/6) + 0 * (2/6)  =  0.333",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "text",
@@ -20320,7 +20320,7 @@
       "containerId": null,
       "originalText": "Information Gain = before - after\n\nEntropy = 1.0 - 0.835*(5/6) - 0 * (1/6) =  0.304\nGini.    = 0.5 - 0.48 * (5/6) - 0 * (1/6) =  0.100 \nMissClassification Error = 0.5 - 0.40 * (5/6) + 0 * (1/6)  =  0.167",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "line",
@@ -20576,7 +20576,7 @@
       "containerId": null,
       "originalText": "Information Gain",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20612,7 +20612,7 @@
       "containerId": null,
       "originalText": "Spilit data on",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "line",
@@ -20692,7 +20692,7 @@
       "containerId": null,
       "originalText": "feature 1 ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20728,7 +20728,7 @@
       "containerId": null,
       "originalText": "feature 2",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20764,7 +20764,7 @@
       "containerId": null,
       "originalText": "Entropy",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20800,7 +20800,7 @@
       "containerId": null,
       "originalText": "Gini",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20836,7 +20836,7 @@
       "containerId": null,
       "originalText": "Classification error",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20872,7 +20872,7 @@
       "containerId": null,
       "originalText": "0.459",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20908,7 +20908,7 @@
       "containerId": null,
       "originalText": "0.125",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20944,7 +20944,7 @@
       "containerId": null,
       "originalText": "0.333",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -20980,7 +20980,7 @@
       "containerId": null,
       "originalText": "0.304",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -21016,7 +21016,7 @@
       "containerId": null,
       "originalText": "0.100",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -21052,7 +21052,7 @@
       "containerId": null,
       "originalText": "0.167",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -21088,7 +21088,7 @@
       "containerId": null,
       "originalText": ">\n\n>\n\n>",
       "lineHeight": 1.25,
-      "baseline": 119
+      "baseline": 118
     },
     {
       "type": "rectangle",
@@ -22097,7 +22097,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -22135,7 +22135,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -22173,7 +22173,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -22211,7 +22211,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -22249,7 +22249,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n4\n5\n6",
       "lineHeight": 1.25,
-      "baseline": 201
+      "baseline": 200
     },
     {
       "type": "ellipse",
@@ -22874,7 +22874,7 @@
       "containerId": null,
       "originalText": "Quick Summary ",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "line",
@@ -23096,7 +23096,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -23134,7 +23134,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -23172,7 +23172,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -23210,7 +23210,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -23248,7 +23248,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n6",
       "lineHeight": 1.25,
-      "baseline": 131
+      "baseline": 130
     },
     {
       "type": "ellipse",
@@ -23904,7 +23904,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -23942,7 +23942,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -23980,7 +23980,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -24018,7 +24018,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -24056,7 +24056,7 @@
       "containerId": null,
       "originalText": "4\n5",
       "lineHeight": 1.25,
-      "baseline": 61
+      "baseline": 60
     },
     {
       "type": "ellipse",
@@ -24919,7 +24919,7 @@
       "containerId": null,
       "originalText": "If Feataure 1 = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -24984,7 +24984,7 @@
       "containerId": null,
       "originalText": "Target = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -25051,7 +25051,7 @@
       "containerId": null,
       "originalText": "Else ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -25087,7 +25087,7 @@
       "containerId": null,
       "originalText": "Target = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -25183,7 +25183,7 @@
       "containerId": null,
       "originalText": "Current Tree Model / Rules",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -25313,7 +25313,7 @@
       "containerId": null,
       "originalText": "Information Gain",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -25351,7 +25351,7 @@
       "containerId": null,
       "originalText": "feature 1 ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -25389,7 +25389,7 @@
       "containerId": null,
       "originalText": "feature 2",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -25483,7 +25483,7 @@
       "containerId": null,
       "originalText": "(3/4 = 75%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -25519,7 +25519,7 @@
       "containerId": null,
       "originalText": "(2/2 = 100%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -25586,7 +25586,7 @@
       "containerId": null,
       "originalText": "(1/4 = 25%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -25670,7 +25670,7 @@
       "containerId": "qqtdybnuYqFTv6R4MqneH",
       "originalText": "feature 1 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -25831,7 +25831,7 @@
       "containerId": "2kjyCIARW67skTjBC3P2n",
       "originalText": "feature 2 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "diamond",
@@ -26216,7 +26216,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26252,7 +26252,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26288,7 +26288,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26324,7 +26324,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26360,7 +26360,7 @@
       "containerId": null,
       "originalText": "1\n2\n6",
       "lineHeight": 1.25,
-      "baseline": 96
+      "baseline": 95
     },
     {
       "type": "ellipse",
@@ -26779,7 +26779,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26815,7 +26815,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26851,7 +26851,7 @@
       "containerId": null,
       "originalText": "target",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26887,7 +26887,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -26923,7 +26923,7 @@
       "containerId": null,
       "originalText": "3",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "ellipse",
@@ -27662,7 +27662,7 @@
       "containerId": null,
       "originalText": "If feataure 1 = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -27727,7 +27727,7 @@
       "containerId": null,
       "originalText": "Target = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -27794,7 +27794,7 @@
       "containerId": null,
       "originalText": "Else ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -27830,7 +27830,7 @@
       "containerId": null,
       "originalText": "Target = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -27931,7 +27931,7 @@
       "containerId": null,
       "originalText": "Tree Model / Rules ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -27967,7 +27967,7 @@
       "containerId": null,
       "originalText": "(3/4 = 75%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -28003,7 +28003,7 @@
       "containerId": null,
       "originalText": "(2/2 = 100%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -28070,7 +28070,7 @@
       "containerId": null,
       "originalText": "(1/4 = 25%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -28157,7 +28157,7 @@
       "containerId": "8ZYmLXTAAAnEiXKi0JCeU",
       "originalText": "Repeat on Node",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -28193,7 +28193,7 @@
       "containerId": null,
       "originalText": "Recall:  \nSplitting dataset one feature \nat a time to \nmaximise information gain.",
       "lineHeight": 1.25,
-      "baseline": 94
+      "baseline": 93
     },
     {
       "type": "line",
@@ -28271,7 +28271,7 @@
       "containerId": null,
       "originalText": "If ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -28307,7 +28307,7 @@
       "containerId": null,
       "originalText": "feature 2 =",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "diamond",
@@ -28374,7 +28374,7 @@
       "containerId": null,
       "originalText": "Target = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -28441,7 +28441,7 @@
       "containerId": null,
       "originalText": "Else ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -28477,7 +28477,7 @@
       "containerId": null,
       "originalText": "Target = ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -28628,7 +28628,7 @@
       "containerId": null,
       "originalText": "(1/1 = 100%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -28664,7 +28664,7 @@
       "containerId": null,
       "originalText": "(3/3 = 100%)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "ellipse",
@@ -29228,7 +29228,7 @@
       "containerId": "j-mrwMRo8yWtviDz3vQlo",
       "originalText": "Sample",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -29358,7 +29358,7 @@
       "containerId": "_KC9XVhwOdHC--2BB1I06",
       "originalText": "feature 1 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -29493,7 +29493,7 @@
       "containerId": "AvEPE1go8_oelkQuPabJW",
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -30863,7 +30863,7 @@
       "containerId": "i8otd4ulgMItm6FWTwFvI",
       "originalText": "Sample",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -31042,7 +31042,7 @@
       "containerId": null,
       "originalText": "75%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -31078,7 +31078,7 @@
       "containerId": null,
       "originalText": "25%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -31760,7 +31760,7 @@
       "containerId": "_EkWorLsIdOqaNwmyQwZB",
       "originalText": "feature 1 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -31861,7 +31861,7 @@
       "containerId": "NZwGBEMXA1qfiuQQXddC5",
       "originalText": "feature 2 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -31933,7 +31933,7 @@
       "containerId": "mC2X4lnJ4RXVuZduLQgsS",
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -33303,7 +33303,7 @@
       "containerId": "GT_aO0ot8sbynJiZkldvY",
       "originalText": "Sample",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -33482,7 +33482,7 @@
       "containerId": null,
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -33518,7 +33518,7 @@
       "containerId": null,
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "diamond",
@@ -33585,7 +33585,7 @@
       "containerId": null,
       "originalText": "Step 3: Keep Spliting until pre-defined Condition Meet",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "rectangle",
@@ -33665,7 +33665,7 @@
       "containerId": "wX7a0iIp9CFvBX-oft0rE",
       "originalText": "feature 1 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -33770,7 +33770,7 @@
       "containerId": "oFZJineT5dV-YpIjn7voA",
       "originalText": "feature 2 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -33842,7 +33842,7 @@
       "containerId": "O9YJs7vsKiBLjeAIlY7WF",
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -35216,7 +35216,7 @@
       "containerId": "sQ4oKVadHcYKZDPCKssYS",
       "originalText": "Sample",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -35395,7 +35395,7 @@
       "containerId": null,
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -35431,7 +35431,7 @@
       "containerId": null,
       "originalText": "100%",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "diamond",
@@ -35498,7 +35498,7 @@
       "containerId": null,
       "originalText": "\nMax Depth: \n    - maximum depth of the tree.\n    - if None, expand to all leaves are pure\n        or all leaves < Min Sample Split\n\nMin Samples Split: \n    - minimum number of samples to split an node\n    - default >= 2\n\nMin Samples Leaf, etc ...",
       "lineHeight": 1.25,
-      "baseline": 215
+      "baseline": 214
     },
     {
       "type": "rectangle",
@@ -35574,7 +35574,7 @@
       "containerId": "pbYnif249nFhtGGB-S03V",
       "originalText": "feature 1 =   ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -35677,7 +35677,7 @@
       "containerId": "VSJBWfiuI-FDGSB83IsY6",
       "originalText": "Sample",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -36407,7 +36407,7 @@
       "containerId": null,
       "originalText": "Tree Construction with Samples",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "line",
@@ -36781,7 +36781,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n4\n5\n6",
       "lineHeight": 1.25,
-      "baseline": 128
+      "baseline": 127
     },
     {
       "type": "ellipse",
@@ -37406,7 +37406,7 @@
       "containerId": null,
       "originalText": "Develop the model",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "arrow",
@@ -38953,7 +38953,7 @@
       "containerId": null,
       "originalText": "f(x)",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "text",
@@ -38989,7 +38989,7 @@
       "containerId": null,
       "originalText": "Stage the model\n",
       "lineHeight": 1.25,
-      "baseline": 61
+      "baseline": 60
     },
     {
       "type": "line",
@@ -39201,7 +39201,7 @@
       "containerId": null,
       "originalText": "featuer 1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -39237,7 +39237,7 @@
       "containerId": null,
       "originalText": "featuer 2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -39273,7 +39273,7 @@
       "containerId": null,
       "originalText": "Prediction",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -39309,7 +39309,7 @@
       "containerId": null,
       "originalText": "Sample-id",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -39345,7 +39345,7 @@
       "containerId": null,
       "originalText": "1\n2\n3\n4\n5\n6\n7\n8\n...",
       "lineHeight": 1.25,
-      "baseline": 175
+      "baseline": 174
     },
     {
       "type": "ellipse",
@@ -39932,7 +39932,7 @@
       "containerId": null,
       "originalText": "?",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -39968,7 +39968,7 @@
       "containerId": null,
       "originalText": "?",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "ellipse",
@@ -41511,7 +41511,7 @@
       "containerId": null,
       "originalText": "f([x1,x2])",
       "lineHeight": 1.2,
-      "baseline": 26
+      "baseline": 27
     },
     {
       "type": "rectangle",
@@ -43016,7 +43016,7 @@
       "containerId": null,
       "originalText": "f(x)",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "text",
@@ -43052,7 +43052,7 @@
       "containerId": null,
       "originalText": "Version T",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43088,7 +43088,7 @@
       "containerId": null,
       "originalText": "Version T-1",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43124,7 +43124,7 @@
       "containerId": null,
       "originalText": "Productize the model version T",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "arrow",
@@ -43256,7 +43256,7 @@
       "containerId": null,
       "originalText": "(Online / Batch)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43364,7 +43364,7 @@
       "containerId": null,
       "originalText": "...",
       "lineHeight": 1.2,
-      "baseline": 18
+      "baseline": 20
     },
     {
       "type": "arrow",
@@ -43488,7 +43488,7 @@
       "containerId": null,
       "originalText": "0",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43524,7 +43524,7 @@
       "containerId": null,
       "originalText": "1.0",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43560,7 +43560,7 @@
       "containerId": null,
       "originalText": "1.0",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43596,7 +43596,7 @@
       "containerId": null,
       "originalText": "0.5",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -43632,7 +43632,7 @@
       "containerId": null,
       "originalText": "0.5",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "line",
@@ -43844,7 +43844,7 @@
       "containerId": null,
       "originalText": "\nSample:\n    p: negative rate\n    1-p : positive rate\n    distribution (p, 1-p)",
       "lineHeight": 1.25,
-      "baseline": 166
+      "baseline": 165
     },
     {
       "type": "line",
@@ -44066,7 +44066,7 @@
       "containerId": null,
       "originalText": "Gini =  1 - p^2 -(1-p)^2",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -44104,7 +44104,7 @@
       "containerId": null,
       "originalText": "Entropy = - p*log2(p) - (1-p)log2(1-p)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -44142,7 +44142,7 @@
       "containerId": null,
       "originalText": "MissClassification Error = 1 - max(1-p, p)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -44178,7 +44178,7 @@
       "containerId": null,
       "originalText": "(0.5, 0.5)",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44214,7 +44214,7 @@
       "containerId": null,
       "originalText": "(1, 0)",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44250,7 +44250,7 @@
       "containerId": null,
       "originalText": "(0, 0)",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44286,7 +44286,7 @@
       "containerId": null,
       "originalText": "(0.5, 1.0)",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44322,7 +44322,7 @@
       "containerId": null,
       "originalText": "Entropy",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44358,7 +44358,7 @@
       "containerId": null,
       "originalText": "Gini",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44394,7 +44394,7 @@
       "containerId": null,
       "originalText": "MissClasErr",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "ellipse",
@@ -44538,7 +44538,7 @@
       "containerId": null,
       "originalText": "Measurement of Sample Inpurity & Uncertainty",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -44574,7 +44574,7 @@
       "containerId": null,
       "originalText": "The Function to measure the quality of a split",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -44610,7 +44610,7 @@
       "containerId": null,
       "originalText": "aka. Log Loss",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -44646,7 +44646,7 @@
       "containerId": null,
       "originalText": "with Missing value support",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -44771,7 +44771,7 @@
       "containerId": null,
       "originalText": "Numerical Feature\nCandicate Annual Income (k)\nsorted low - high",
       "lineHeight": 1.25,
-      "baseline": 55
+      "baseline": 54
     },
     {
       "type": "text",
@@ -44809,7 +44809,7 @@
       "containerId": null,
       "originalText": "Categrical Feature \nBank Approval",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -44876,7 +44876,7 @@
       "containerId": null,
       "originalText": "Categrical Feature\nPersonal Loan Amount (k)",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -44943,7 +44943,7 @@
       "containerId": null,
       "originalText": "35.   40.   45.   50.   55.   60.    65.    70.   75.   80.   85.    95.   100.   105.   110.   115.   120.   125.  130. ",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "ellipse",
@@ -45589,7 +45589,7 @@
       "containerId": null,
       "originalText": "150.  200.   50.  50.  250.  300.   100.  100.   150.   150.  150.   150.  200.  200.  200.  500.  650.  600.  700. ",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "line",
@@ -45700,7 +45700,7 @@
       "containerId": null,
       "originalText": "<= 63",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -45738,7 +45738,7 @@
       "containerId": null,
       "originalText": "> 63",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -45776,7 +45776,7 @@
       "containerId": null,
       "originalText": "Split Comparision",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -45814,7 +45814,7 @@
       "containerId": null,
       "originalText": "<= 113",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -45852,7 +45852,7 @@
       "containerId": null,
       "originalText": "> 113",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "line",
@@ -45934,7 +45934,7 @@
       "containerId": null,
       "originalText": "Classification Task\n- Gini Index\n- Entropy",
       "lineHeight": 1.25,
-      "baseline": 55
+      "baseline": 54
     },
     {
       "type": "text",
@@ -45972,7 +45972,7 @@
       "containerId": null,
       "originalText": "Regression Task \n- Variance ",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
@@ -46010,7 +46010,7 @@
       "containerId": null,
       "originalText": "... ...",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46048,7 +46048,7 @@
       "containerId": null,
       "originalText": "... ...",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46086,7 +46086,7 @@
       "containerId": null,
       "originalText": "... ...",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46124,7 +46124,7 @@
       "containerId": null,
       "originalText": "Application Example: Personal Loan Dummy Data",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -46162,7 +46162,7 @@
       "containerId": null,
       "originalText": "Bank Approval = f (Anual income, loan amount)",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46200,7 +46200,7 @@
       "containerId": null,
       "originalText": "... ...",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46238,7 +46238,7 @@
       "containerId": null,
       "originalText": "Loan amount = f (Anual Income, Bank approval)",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "line",
@@ -46364,7 +46364,7 @@
       "containerId": null,
       "originalText": "<= 73 . > 73",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46402,7 +46402,7 @@
       "containerId": null,
       "originalText": "<= 98 . > 98",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -46440,7 +46440,7 @@
       "containerId": null,
       "originalText": "If Bank approavl = Yes\n    If Annual Income <= 63\n        Peroson Loan = 50\n    If Annual Income > 63 and <=73\n        Peroson Loan = 100\n    If Annual Income > 73 and <=98\n        Peroson Loan = 150\n    If Annual Income > 98 and <=113\n        Peroson Loan = 200\nElse\n    Peroson Loan = 0",
       "lineHeight": 1.25,
-      "baseline": 215
+      "baseline": 214
     },
     {
       "type": "ellipse",
@@ -46510,7 +46510,7 @@
       "containerId": null,
       "originalText": "If  XXXX\n    Bank approavl = No\nElse\n    Bank approval = Yes",
       "lineHeight": 1.25,
-      "baseline": 75
+      "baseline": 74
     },
     {
       "type": "ellipse",
@@ -46578,8 +46578,8 @@
     },
     {
       "type": "rectangle",
-      "version": 680,
-      "versionNonce": 1036943785,
+      "version": 681,
+      "versionNonce": 825947560,
       "isDeleted": false,
       "id": "s7N_k2GcbM_UXHpQwcF2n",
       "fillStyle": "solid",
@@ -46589,7 +46589,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2063.411096208045,
-      "y": 1249.0160533546364,
+      "y": 1248.3278093070173,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 175.79677163422528,
@@ -46608,14 +46608,14 @@
           "id": "jD8R_OITG5_yiAWbIuG91"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 672,
-      "versionNonce": 764578151,
+      "version": 673,
+      "versionNonce": 1016987816,
       "isDeleted": false,
       "id": "jD8R_OITG5_yiAWbIuG91",
       "fillStyle": "solid",
@@ -46625,7 +46625,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2114.7895158996694,
-      "y": 1259.9643545243594,
+      "y": 1259.2761104767403,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 73.03993225097656,
@@ -46637,7 +46637,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -46648,12 +46648,12 @@
       "containerId": "s7N_k2GcbM_UXHpQwcF2n",
       "originalText": "Entropy",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
-      "version": 581,
-      "versionNonce": 297952393,
+      "version": 582,
+      "versionNonce": 493333416,
       "isDeleted": false,
       "id": "rsA-9mKsOlp9FUP0dak9C",
       "fillStyle": "solid",
@@ -46663,7 +46663,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1854.7212167207465,
-      "y": 1248.9683902877437,
+      "y": 1248.2801462401246,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 179.9335502486461,
@@ -46682,14 +46682,14 @@
           "id": "38Q9gBgbG3lOSF50bQ1N6"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 627,
-      "versionNonce": 761971847,
+      "version": 628,
+      "versionNonce": 767817384,
       "isDeleted": false,
       "id": "38Q9gBgbG3lOSF50bQ1N6",
       "fillStyle": "solid",
@@ -46699,7 +46699,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1886.7880513543469,
-      "y": 1261.1103009461035,
+      "y": 1260.4220568984845,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 115.79988098144531,
@@ -46711,7 +46711,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -46722,12 +46722,12 @@
       "containerId": "rsA-9mKsOlp9FUP0dak9C",
       "originalText": "Gini impurity",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
-      "version": 576,
-      "versionNonce": 1190587241,
+      "version": 577,
+      "versionNonce": 576643496,
       "isDeleted": false,
       "id": "jYvzyxjvETCi57rYfn9u6",
       "fillStyle": "solid",
@@ -46737,7 +46737,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1945.7211369416705,
-      "y": 953.0188455642868,
+      "y": 952.3306015166678,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 195.19420205414718,
@@ -46756,14 +46756,14 @@
           "id": "o3vgT7p_dJCeisuZS9fdR"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 585,
-      "versionNonce": 2026806183,
+      "version": 586,
+      "versionNonce": 979659944,
       "isDeleted": false,
       "id": "o3vgT7p_dJCeisuZS9fdR",
       "fillStyle": "solid",
@@ -46773,7 +46773,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1961.028298088373,
-      "y": 963.6309193170176,
+      "y": 962.9426752693986,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 164.5798797607422,
@@ -46785,7 +46785,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -46796,12 +46796,12 @@
       "containerId": "jYvzyxjvETCi57rYfn9u6",
       "originalText": "Information Gain",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
-      "version": 760,
-      "versionNonce": 901224009,
+      "version": 761,
+      "versionNonce": 1870698408,
       "isDeleted": false,
       "id": "qWXNVAb16BoGVyx9fkchY",
       "fillStyle": "solid",
@@ -46811,7 +46811,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1876.5413420678515,
-      "y": 1011.4321635472811,
+      "y": 1010.7439194996621,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
       "width": 334.215905536441,
@@ -46838,14 +46838,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 748,
-      "versionNonce": 1407880903,
+      "version": 749,
+      "versionNonce": 1536481448,
       "isDeleted": false,
       "id": "D1MdGX2ZmWFDcYT-kDVRv",
       "fillStyle": "solid",
@@ -46855,7 +46855,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1920.3594083614626,
-      "y": 1016.4321635472811,
+      "y": 1015.7439194996621,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 246.57977294921875,
@@ -46867,7 +46867,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -46878,12 +46878,12 @@
       "containerId": "qWXNVAb16BoGVyx9fkchY",
       "originalText": "\nID3 \n\nIterative Dichotomiser 3",
       "lineHeight": 1.25,
-      "baseline": 94
+      "baseline": 93
     },
     {
       "type": "arrow",
-      "version": 1650,
-      "versionNonce": 551544105,
+      "version": 1655,
+      "versionNonce": 304349656,
       "isDeleted": false,
       "id": "LzqiAym45r6dzhvmLUk34",
       "fillStyle": "solid",
@@ -46893,7 +46893,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2219.0511001470577,
-      "y": 1011.9918377479186,
+      "y": 1011.3035937002995,
       "strokeColor": "#000000",
       "backgroundColor": "#b2f2bb",
       "width": 47.540528948682095,
@@ -46905,7 +46905,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346248,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -46934,8 +46934,8 @@
     },
     {
       "type": "rectangle",
-      "version": 935,
-      "versionNonce": 1230708199,
+      "version": 936,
+      "versionNonce": 1860488872,
       "isDeleted": false,
       "id": "-6VyGv3qPs65dZk_wIQXy",
       "fillStyle": "solid",
@@ -46945,7 +46945,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2720.0651937349826,
-      "y": 695.3629366011319,
+      "y": 694.6746925535128,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
       "width": 334.215905536441,
@@ -46972,14 +46972,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 989,
-      "versionNonce": 1675319305,
+      "version": 990,
+      "versionNonce": 556822440,
       "isDeleted": false,
       "id": "ofLqOAIU4n17nvyo2_wkm",
       "fillStyle": "solid",
@@ -46989,7 +46989,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2739.273274677031,
-      "y": 719.8070970625577,
+      "y": 719.1188530149386,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 295.79974365234375,
@@ -47001,7 +47001,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47012,12 +47012,12 @@
       "containerId": "-6VyGv3qPs65dZk_wIQXy",
       "originalText": "CART (Today)\n \nClassification and Regression Tree",
       "lineHeight": 1.25,
-      "baseline": 94
+      "baseline": 93
     },
     {
       "type": "rectangle",
-      "version": 1024,
-      "versionNonce": 1546438919,
+      "version": 1025,
+      "versionNonce": 1137982120,
       "isDeleted": false,
       "id": "1_xBM9ITsOfn2cwXoKSss",
       "fillStyle": "solid",
@@ -47027,7 +47027,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2261.016916864013,
-      "y": 884.0700086623373,
+      "y": 883.3817646147182,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
       "width": 334.215905536441,
@@ -47055,14 +47055,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346210,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 1029,
-      "versionNonce": 1621454569,
+      "version": 1030,
+      "versionNonce": 1949544616,
       "isDeleted": false,
       "id": "SI9WHqPFQa1oB8UiSPQ2l",
       "fillStyle": "solid",
@@ -47072,7 +47072,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2371.594916629304,
-      "y": 893.5401594341664,
+      "y": 892.8519153865474,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 113.05990600585938,
@@ -47085,7 +47085,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47096,12 +47096,12 @@
       "containerId": "1_xBM9ITsOfn2cwXoKSss",
       "originalText": "C4.5 (C5.0)",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 880,
-      "versionNonce": 2044465191,
+      "version": 881,
+      "versionNonce": 919034792,
       "isDeleted": false,
       "id": "7TW1Zo_C_w-gPk2qJ4BAf",
       "fillStyle": "solid",
@@ -47111,7 +47111,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2273.3708631101913,
-      "y": 943.0393312210049,
+      "y": 942.3510871733858,
       "strokeColor": "#000000",
       "backgroundColor": "#b2f2bb",
       "width": 423.5357666015625,
@@ -47129,7 +47129,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -47140,12 +47140,12 @@
       "containerId": null,
       "originalText": "- Inforamtion Gain Ratio\n- feature can be continuous\n    - partition value into a discrete set of intervals\n- evaluate accuracy of rules to determine the order\n- pruning the tree / aoivd overfitting\n\nOh! C here means C programming language",
       "lineHeight": 1.25,
-      "baseline": 135
+      "baseline": 134
     },
     {
       "type": "text",
-      "version": 434,
-      "versionNonce": 768190921,
+      "version": 435,
+      "versionNonce": 1267896744,
       "isDeleted": false,
       "id": "4kw2i1hws2mvWTffhd7vT",
       "fillStyle": "solid",
@@ -47155,7 +47155,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1919.5221828259032,
-      "y": 1138.9173931513433,
+      "y": 1138.2291491037242,
       "strokeColor": "#000000",
       "backgroundColor": "#b2f2bb",
       "width": 248.0318603515625,
@@ -47172,7 +47172,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -47183,12 +47183,12 @@
       "containerId": null,
       "originalText": "- Information Gain\n-  feature must be categorical\n- greedy approach",
       "lineHeight": 1.25,
-      "baseline": 55
+      "baseline": 54
     },
     {
       "type": "text",
-      "version": 1167,
-      "versionNonce": 743797575,
+      "version": 1168,
+      "versionNonce": 1638014120,
       "isDeleted": false,
       "id": "5QNdnzXR2u-zVc9MqNtQl",
       "fillStyle": "solid",
@@ -47198,7 +47198,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2725.234052807457,
-      "y": 860.9719338763247,
+      "y": 860.2836898287056,
       "strokeColor": "#000000",
       "backgroundColor": "#b2f2bb",
       "width": 518.9596557617188,
@@ -47215,7 +47215,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 16,
@@ -47226,12 +47226,12 @@
       "containerId": null,
       "originalText": "- binary tree by feature and threshold (boost the speed) \n    - to get largest information gain \n- Support numerical target (regression)\n    - variance reduction as feature selection criterion\n    - minimise l2-loss with mean of the terminal node, MSE, MAE...\n- pruning w.r.t min error, smallest tree \n- early stopping pre-pruning",
       "lineHeight": 1.25,
-      "baseline": 135
+      "baseline": 134
     },
     {
       "type": "ellipse",
-      "version": 2195,
-      "versionNonce": 73631913,
+      "version": 2196,
+      "versionNonce": 2104562344,
       "isDeleted": false,
       "id": "3olgJ_cf-3z1c6kAJiFGr",
       "fillStyle": "solid",
@@ -47241,7 +47241,7 @@
       "opacity": 100,
       "angle": 5.460625648275829,
       "x": 3202.679427592858,
-      "y": 650.3584253069743,
+      "y": 649.6701812593552,
       "strokeColor": "#fd7e14",
       "backgroundColor": "#fd7e14",
       "width": 111.15419484125854,
@@ -47254,14 +47254,14 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "ellipse",
-      "version": 2400,
-      "versionNonce": 200634983,
+      "version": 2401,
+      "versionNonce": 906526120,
       "isDeleted": false,
       "id": "Nbu1Knksu0cJv-pTLc8bd",
       "fillStyle": "solid",
@@ -47271,7 +47271,7 @@
       "opacity": 100,
       "angle": 5.460625648275829,
       "x": 3150.16648239851,
-      "y": 671.9437483094423,
+      "y": 671.2555042618233,
       "strokeColor": "#228be6",
       "backgroundColor": "#228be6",
       "width": 52.28714662399101,
@@ -47289,14 +47289,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 1888,
-      "versionNonce": 1847495561,
+      "version": 1889,
+      "versionNonce": 1651717032,
       "isDeleted": false,
       "id": "7cZdze7T-sJS92qsP8CPO",
       "fillStyle": "solid",
@@ -47306,7 +47306,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 3248.9427695995923,
-      "y": 679.5528763863316,
+      "y": 678.8646323387126,
       "strokeColor": "white",
       "backgroundColor": "#228be6",
       "width": 45.52734375,
@@ -47319,7 +47319,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 12.954035714265679,
@@ -47330,12 +47330,12 @@
       "containerId": null,
       "originalText": "Scikit",
       "lineHeight": 1.1875000000000036,
-      "baseline": 11
+      "baseline": 12
     },
     {
       "type": "text",
-      "version": 1934,
-      "versionNonce": 1904774535,
+      "version": 1935,
+      "versionNonce": 1478393512,
       "isDeleted": false,
       "id": "d77T69YuJYgZck05SPLhf",
       "fillStyle": "solid",
@@ -47345,7 +47345,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 3233.3374207688926,
-      "y": 684.6866553232616,
+      "y": 683.9984112756425,
       "strokeColor": "#000000",
       "backgroundColor": "#228be6",
       "width": 97.060546875,
@@ -47358,7 +47358,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 33.132541205067945,
@@ -47369,12 +47369,12 @@
       "containerId": null,
       "originalText": "learn",
       "lineHeight": 1.1944444444444442,
-      "baseline": 30
+      "baseline": 32
     },
     {
       "type": "arrow",
-      "version": 986,
-      "versionNonce": 859189865,
+      "version": 991,
+      "versionNonce": 1832872920,
       "isDeleted": false,
       "id": "z041kwnNG3ql3vRhAHUgT",
       "fillStyle": "solid",
@@ -47384,7 +47384,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 3056.084513283802,
-      "y": 716.7002788232895,
+      "y": 716.0120347756705,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 78.57691631479611,
@@ -47396,7 +47396,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346250,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -47406,7 +47406,7 @@
       },
       "endBinding": {
         "elementId": "Nbu1Knksu0cJv-pTLc8bd",
-        "focus": 0.6961081229653998,
+        "focus": 0.6961081229654088,
         "gap": 13.453688618671851
       },
       "lastCommittedPoint": null,
@@ -47425,8 +47425,8 @@
     },
     {
       "type": "text",
-      "version": 375,
-      "versionNonce": 1749763239,
+      "version": 376,
+      "versionNonce": 1706882216,
       "isDeleted": false,
       "id": "INsmWpr9yA19e8vRajanj",
       "fillStyle": "solid",
@@ -47436,7 +47436,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 3184.2523541506175,
-      "y": 750.5440788842302,
+      "y": 749.8558348366112,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 144.03985595703125,
@@ -47448,7 +47448,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47459,12 +47459,12 @@
       "containerId": null,
       "originalText": "Decision Trees",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
-      "version": 663,
-      "versionNonce": 141950281,
+      "version": 668,
+      "versionNonce": 1409832408,
       "isDeleted": false,
       "id": "d7heCVd2Fr1XVrhhfE_SD",
       "fillStyle": "solid",
@@ -47474,7 +47474,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2597.688207170211,
-      "y": 875.5319396698204,
+      "y": 874.8436956222014,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 114.53578404017844,
@@ -47486,7 +47486,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346251,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -47515,8 +47515,8 @@
     },
     {
       "type": "text",
-      "version": 273,
-      "versionNonce": 1609177031,
+      "version": 274,
+      "versionNonce": 716565160,
       "isDeleted": false,
       "id": "JH0jWhC9f7xshdqSKgbfN",
       "fillStyle": "solid",
@@ -47526,7 +47526,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2132.6198129179784,
-      "y": 1030.0563014164723,
+      "y": 1029.3680573688532,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 45.69996643066406,
@@ -47538,7 +47538,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47549,12 +47549,12 @@
       "containerId": null,
       "originalText": "1986",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 329,
-      "versionNonce": 2100915241,
+      "version": 330,
+      "versionNonce": 351425960,
       "isDeleted": false,
       "id": "J5q1vAUmwcciY7K_ha-j1",
       "fillStyle": "solid",
@@ -47564,7 +47564,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2515.1009890218434,
-      "y": 892.0947884421417,
+      "y": 891.4065443945227,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 43.39997863769531,
@@ -47576,7 +47576,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47587,12 +47587,12 @@
       "containerId": null,
       "originalText": "1993",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
-      "version": 715,
-      "versionNonce": 511805159,
+      "version": 716,
+      "versionNonce": 1919508648,
       "isDeleted": false,
       "id": "_mV_d2MId1RG-rOk9GWuY",
       "fillStyle": "solid",
@@ -47602,7 +47602,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2334.083642415459,
-      "y": 807.6023610342772,
+      "y": 806.9141169866582,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 195.19420205414718,
@@ -47621,14 +47621,14 @@
           "id": "Jrp5eQBQ7WM0OcmFfsUWd"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 737,
-      "versionNonce": 694943497,
+      "version": 738,
+      "versionNonce": 1120340904,
       "isDeleted": false,
       "id": "Jrp5eQBQ7WM0OcmFfsUWd",
       "fillStyle": "solid",
@@ -47638,7 +47638,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2344.3908035621616,
-      "y": 812.6023610342772,
+      "y": 811.9141169866582,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 174.5798797607422,
@@ -47650,7 +47650,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47661,12 +47661,12 @@
       "containerId": "_mV_d2MId1RG-rOk9GWuY",
       "originalText": "Information Gain Ratio",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "rectangle",
-      "version": 756,
-      "versionNonce": 1922961927,
+      "version": 757,
+      "versionNonce": 808933032,
       "isDeleted": false,
       "id": "DxcueCihm8zvxxyQtGLtZ",
       "fillStyle": "solid",
@@ -47676,7 +47676,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2723.4260709558853,
-      "y": 629.3021949798998,
+      "y": 628.6139509322808,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 195.19420205414718,
@@ -47695,14 +47695,14 @@
           "id": "wYDbUGd_8nTMaGkVFIEbz"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 765,
-      "versionNonce": 461977065,
+      "version": 766,
+      "versionNonce": 1063666088,
       "isDeleted": false,
       "id": "wYDbUGd_8nTMaGkVFIEbz",
       "fillStyle": "solid",
@@ -47712,7 +47712,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2738.733232102588,
-      "y": 639.9142687326306,
+      "y": 639.2260246850116,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 164.5798797607422,
@@ -47724,7 +47724,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47735,12 +47735,12 @@
       "containerId": "DxcueCihm8zvxxyQtGLtZ",
       "originalText": "Information Gain",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 664,
-      "versionNonce": 624703783,
+      "version": 665,
+      "versionNonce": 2139081896,
       "isDeleted": false,
       "id": "01PYM2tbEkhWoAUwsnZY2",
       "fillStyle": "solid",
@@ -47750,7 +47750,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 1899.0829128063715,
-      "y": 681.4733633584365,
+      "y": 680.7851193108174,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 393.5197448730469,
@@ -47762,7 +47762,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47773,12 +47773,12 @@
       "containerId": null,
       "originalText": "Dr. John Ross Quinlan (Australian)\n\nCS Researcher, Founding Fellow of AAAI\n1965 BSs in Uni of Sydney\n1968 PhD in Uni of Washington\nPositions UNSW, USYD, &UTS \n",
       "lineHeight": 1.25,
-      "baseline": 169
+      "baseline": 168
     },
     {
       "type": "arrow",
-      "version": 1662,
-      "versionNonce": 110923977,
+      "version": 1667,
+      "versionNonce": 1495187416,
       "isDeleted": false,
       "id": "nB3AkpUUq0K2LoW76SKbp",
       "fillStyle": "solid",
@@ -47788,7 +47788,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2974.9042962008148,
-      "y": 1080.462158182357,
+      "y": 1079.7739141347379,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 12.548129788333426,
@@ -47800,7 +47800,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346256,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -47810,7 +47810,7 @@
       },
       "endBinding": {
         "elementId": "5QNdnzXR2u-zVc9MqNtQl",
-        "focus": 0.1391990746001846,
+        "focus": 0.1391990746001847,
         "gap": 12.839898434934298
       },
       "lastCommittedPoint": null,
@@ -47829,8 +47829,8 @@
     },
     {
       "type": "rectangle",
-      "version": 1075,
-      "versionNonce": 734559303,
+      "version": 1076,
+      "versionNonce": 597869224,
       "isDeleted": false,
       "id": "SCnKxDek09b5prJ1p4OZm",
       "fillStyle": "solid",
@@ -47840,7 +47840,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2817.380544895581,
-      "y": 1087.9407359324266,
+      "y": 1087.2524918848076,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
       "width": 403.8750580972047,
@@ -47867,14 +47867,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 1189,
-      "versionNonce": 809602985,
+      "version": 1190,
+      "versionNonce": 801301416,
       "isDeleted": false,
       "id": "Ww9tbcS6yP2vHpWyBPuD9",
       "fillStyle": "solid",
@@ -47884,7 +47884,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2826.6481825867613,
-      "y": 1124.8848963938524,
+      "y": 1124.1966523462333,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 385.33978271484375,
@@ -47896,7 +47896,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47907,12 +47907,12 @@
       "containerId": "SCnKxDek09b5prJ1p4OZm",
       "originalText": "Early CART Version (1977, 1984, 2009)\n\nClassification and Regression Tree",
       "lineHeight": 1.25,
-      "baseline": 69
+      "baseline": 68
     },
     {
       "type": "rectangle",
-      "version": 955,
-      "versionNonce": 438262631,
+      "version": 956,
+      "versionNonce": 1073229480,
       "isDeleted": false,
       "id": "FvuyifzbUZ5SqPyzrWWgq",
       "fillStyle": "solid",
@@ -47922,7 +47922,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2477.969238461178,
-      "y": 1300.4482543936247,
+      "y": 1299.7600103460056,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#b2f2bb",
       "width": 216.3411496770658,
@@ -47949,14 +47949,14 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 984,
-      "versionNonce": 514044553,
+      "version": 985,
+      "versionNonce": 1048563624,
       "isDeleted": false,
       "id": "pdk9NyBPb6wVblDjfSdar",
       "fillStyle": "solid",
@@ -47966,7 +47966,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2504.9698685365274,
-      "y": 1307.811383055734,
+      "y": 1307.123139008115,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
       "width": 162.3398895263672,
@@ -47978,7 +47978,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -47989,12 +47989,12 @@
       "containerId": "FvuyifzbUZ5SqPyzrWWgq",
       "originalText": "Decision Tree \nInvented in 1963",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "arrow",
-      "version": 645,
-      "versionNonce": 1418548871,
+      "version": 650,
+      "versionNonce": 1730324952,
       "isDeleted": false,
       "id": "MGNJCZGNxu8bLsxdO1OVD",
       "fillStyle": "solid",
@@ -48004,7 +48004,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2559.9054849371887,
-      "y": 1286.984275909312,
+      "y": 1286.2960318616929,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 335.09313871652375,
@@ -48016,7 +48016,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346257,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -48045,8 +48045,8 @@
     },
     {
       "type": "arrow",
-      "version": 803,
-      "versionNonce": 108951913,
+      "version": 808,
+      "versionNonce": 1085543384,
       "isDeleted": false,
       "id": "6mYTutdRDnElT3TD79_f7",
       "fillStyle": "solid",
@@ -48056,7 +48056,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2675.608127759527,
-      "y": 1284.8277322269491,
+      "y": 1284.13948817933,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 122.47808718943088,
@@ -48068,7 +48068,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454695,
+      "updated": 1725947346257,
       "link": null,
       "locked": false,
       "startBinding": {
@@ -48097,8 +48097,8 @@
     },
     {
       "type": "rectangle",
-      "version": 805,
-      "versionNonce": 30338471,
+      "version": 806,
+      "versionNonce": 2000621736,
       "isDeleted": false,
       "id": "4N-Q-6Qx4TKDV-cdkbZQ5",
       "fillStyle": "solid",
@@ -48108,7 +48108,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2929.4683695301815,
-      "y": 620.1056823640279,
+      "y": 619.4174383164088,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 130.69477510644748,
@@ -48127,14 +48127,14 @@
           "id": "RI6Huo--dh3JjMl0Wxy5b"
         }
       ],
-      "updated": 1710160454696,
+      "updated": 1725947346211,
       "link": null,
       "locked": false
     },
     {
       "type": "text",
-      "version": 823,
-      "versionNonce": 2031969353,
+      "version": 824,
+      "versionNonce": 23509928,
       "isDeleted": false,
       "id": "RI6Huo--dh3JjMl0Wxy5b",
       "fillStyle": "solid",
@@ -48144,7 +48144,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 2948.125800418366,
-      "y": 625.1056823640279,
+      "y": 624.4174383164088,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
       "width": 93.37991333007812,
@@ -48156,7 +48156,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1710160454696,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -48167,12 +48167,12 @@
       "containerId": "4N-Q-6Qx4TKDV-cdkbZQ5",
       "originalText": "Variance Reduction",
       "lineHeight": 1.25,
-      "baseline": 44
+      "baseline": 43
     },
     {
       "type": "image",
-      "version": 341,
-      "versionNonce": 1024499911,
+      "version": 342,
+      "versionNonce": 1600194216,
       "isDeleted": false,
       "id": "SiPPXDq1b394KHFfB7yNI",
       "fillStyle": "solid",
@@ -48182,7 +48182,7 @@
       "opacity": 100,
       "angle": 0,
       "x": 3265.1255535635505,
-      "y": 833.4536427167218,
+      "y": 832.7653986691028,
       "strokeColor": "transparent",
       "backgroundColor": "#b2f2bb",
       "width": 164.4461954702186,
@@ -48199,7 +48199,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1710160454696,
+      "updated": 1725947346211,
       "link": null,
       "locked": false,
       "status": "saved",
@@ -48243,7 +48243,7 @@
       "containerId": null,
       "originalText": "Machine Learning: Decision Tree / Part 2",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "rectangle",
@@ -48342,7 +48342,7 @@
       "containerId": "z53oEX7hEKmOxLToGHGnC",
       "originalText": "Bagging",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -48378,7 +48378,7 @@
       "containerId": null,
       "originalText": "Ensemble Learning",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "rectangle",
@@ -48448,7 +48448,7 @@
       "containerId": "Efs9s0q20y_SHpiSJ20n7",
       "originalText": "Boosting",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -48518,7 +48518,7 @@
       "containerId": "-GOLglpyZBNh7jR-Y84bS",
       "originalText": "Stacking",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -48617,7 +48617,7 @@
       "containerId": "EMZEMPyhjEre5BKHmHo7Z",
       "originalText": "Random Forest",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -48687,7 +48687,7 @@
       "containerId": "kSJW4LJnCeI19cOvu4yAz",
       "originalText": "GBDT",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -48723,7 +48723,7 @@
       "containerId": null,
       "originalText": "Paralleal Training\nBootstraping Aggregating",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
@@ -48759,7 +48759,7 @@
       "containerId": null,
       "originalText": "- Max Voting\n- weighted averaging",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
@@ -48795,7 +48795,7 @@
       "containerId": null,
       "originalText": "One Tree",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -48831,7 +48831,7 @@
       "containerId": null,
       "originalText": "Additive Trees",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -48901,7 +48901,7 @@
       "containerId": "17GJMO-r358XjbxQWCD9r",
       "originalText": "\nData\n\n+ Sampling Method\n+ Weighting ...",
       "lineHeight": 1.25,
-      "baseline": 95
+      "baseline": 94
     },
     {
       "type": "rectangle",
@@ -48971,7 +48971,7 @@
       "containerId": "qtVFC2YxvB8JDIRwgZuAc",
       "originalText": "Aggregating\nOutput",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -49076,7 +49076,7 @@
       "containerId": "-XtKMhcO4Fnq5weRS8zPu",
       "originalText": "#1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -49114,7 +49114,7 @@
       "containerId": null,
       "originalText": "Models",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -49188,7 +49188,7 @@
       "containerId": "cq8uS0Gyl-tOPf4HCbQqJ",
       "originalText": "#2",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -49262,7 +49262,7 @@
       "containerId": "c4SHnolUbPi95Gjf1JQFJ",
       "originalText": "...",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -49298,7 +49298,7 @@
       "containerId": null,
       "originalText": "forward-stage-wise\nSequential Training",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
@@ -49334,7 +49334,7 @@
       "containerId": null,
       "originalText": "Models' prediction used \nas output model's input ",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
@@ -49370,7 +49370,7 @@
       "containerId": null,
       "originalText": "Bagging + Randome Feature Sampling",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -49406,7 +49406,7 @@
       "containerId": null,
       "originalText": "Sampling with replacement is a type of random sampling technique \nwhere you draw an item from a population, record it, and then put \nit back into the population before drawing the next item.",
       "lineHeight": 1.25,
-      "baseline": 55
+      "baseline": 54
     },
     {
       "type": "rectangle",
@@ -49476,7 +49476,7 @@
       "containerId": "7b6Ky6VKwGEq1BrIJ_kls",
       "originalText": "AdaBoost",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -49512,7 +49512,7 @@
       "containerId": null,
       "originalText": "reweighting the training samples",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -49548,7 +49548,7 @@
       "containerId": null,
       "originalText": "Multiple Additive Regression Tree\nMinimizing the residual error",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "text",
@@ -49584,7 +49584,7 @@
       "containerId": null,
       "originalText": "Machine Learning: Decision Tree / Part 3",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "rectangle",
@@ -49683,7 +49683,7 @@
       "containerId": "6yLwWibc7_RR_HOa_tFD1",
       "originalText": "Random Forest",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -49757,7 +49757,7 @@
       "containerId": "H12unI85goGteh8ir7-sf",
       "originalText": "GBDT",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -49793,7 +49793,7 @@
       "containerId": null,
       "originalText": "Bagging + Randome Feature Sampling",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "rectangle",
@@ -49863,7 +49863,7 @@
       "containerId": "SQXKOu7Aqi5IkK5LR1nfK",
       "originalText": "AdaBoost",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -49899,7 +49899,7 @@
       "containerId": null,
       "originalText": "reweighting the training samples",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -49935,7 +49935,7 @@
       "containerId": null,
       "originalText": "Multiple Additive Regression Tree\nMinimizing the residual error",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -50039,7 +50039,7 @@
       "containerId": "kCoHYqultuqjZkcbRhjdY",
       "originalText": "XGBoost",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -50109,7 +50109,7 @@
       "containerId": "Dsx5MmswdXqwDCZehoebF",
       "originalText": "LightGBM",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -50197,7 +50197,7 @@
       "containerId": null,
       "originalText": "- differentiable objective function\n- L1 and L2 regularization penalties to control model\n complexity and prevent overfitting.",
       "lineHeight": 1.25,
-      "baseline": 55
+      "baseline": 54
     },
     {
       "type": "text",
@@ -50233,7 +50233,7 @@
       "containerId": null,
       "originalText": "- Histogram-based approach for feature ranking\n- Leaf-wise tree growth\n- GOSS: Gradient-based One-Side Sampling, subsample \ndata points with lower gradients\n- EFB: Exclusive Feature Bundling, combine features, \nreduce dimensionality",
       "lineHeight": 1.25,
-      "baseline": 115
+      "baseline": 114
     },
     {
       "type": "text",
@@ -50269,7 +50269,7 @@
       "containerId": null,
       "originalText": " -- Splitting datasets one feature at a time",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "text",
@@ -50305,7 +50305,7 @@
       "containerId": null,
       "originalText": " -- Splitting datasets one feature at a time",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "image",
@@ -50407,7 +50407,7 @@
       "containerId": null,
       "originalText": "API: Python/R/Julia/Scala/Java/C++",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50634,7 +50634,7 @@
       "containerId": null,
       "originalText": "xgboost:",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50673,7 +50673,7 @@
       "containerId": null,
       "originalText": "eta = 0.1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50712,7 +50712,7 @@
       "containerId": null,
       "originalText": "max_depth = 8",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50751,7 +50751,7 @@
       "containerId": null,
       "originalText": "num_round = 500",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50790,7 +50790,7 @@
       "containerId": null,
       "originalText": "nthread = 16",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50829,7 +50829,7 @@
       "containerId": null,
       "originalText": "tree_method = exact",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50868,7 +50868,7 @@
       "containerId": null,
       "originalText": "min_child_weight = 100",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50907,7 +50907,7 @@
       "containerId": null,
       "originalText": "xgboost_hist (using histogram based algorithm):",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50946,7 +50946,7 @@
       "containerId": null,
       "originalText": "eta = 0.1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -50985,7 +50985,7 @@
       "containerId": null,
       "originalText": "num_round = 500",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51024,7 +51024,7 @@
       "containerId": null,
       "originalText": "nthread = 16",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51063,7 +51063,7 @@
       "containerId": null,
       "originalText": "min_child_weight = 100",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51102,7 +51102,7 @@
       "containerId": null,
       "originalText": "tree_method = hist",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51141,7 +51141,7 @@
       "containerId": null,
       "originalText": "grow_policy = lossguide",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51180,7 +51180,7 @@
       "containerId": null,
       "originalText": "max_depth = 0",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51219,7 +51219,7 @@
       "containerId": null,
       "originalText": "max_leaves = 255",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51258,7 +51258,7 @@
       "containerId": null,
       "originalText": "LightGBM:",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51297,7 +51297,7 @@
       "containerId": null,
       "originalText": "learning_rate = 0.1",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51336,7 +51336,7 @@
       "containerId": null,
       "originalText": "num_leaves = 255",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51375,7 +51375,7 @@
       "containerId": null,
       "originalText": "num_trees = 500",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51414,7 +51414,7 @@
       "containerId": null,
       "originalText": "num_threads = 16",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51453,7 +51453,7 @@
       "containerId": null,
       "originalText": "min_data_in_leaf = 0",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51492,7 +51492,7 @@
       "containerId": null,
       "originalText": "min_sum_hessian_in_leaf = 100",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51530,7 +51530,7 @@
       "containerId": null,
       "originalText": "Speed: LightGBM > XGBoost",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51568,7 +51568,7 @@
       "containerId": null,
       "originalText": "Accuracy: LightGBM = XGBoost",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -51606,7 +51606,7 @@
       "containerId": null,
       "originalText": "Memory Consumption: LightGBM < XGBoost\n",
       "lineHeight": 1.25,
-      "baseline": 35
+      "baseline": 34
     },
     {
       "type": "image",
@@ -51973,7 +51973,7 @@
       "containerId": null,
       "originalText": "Step 4: Model Maintanence and Operations",
       "lineHeight": 1.25,
-      "baseline": 26
+      "baseline": 25
     },
     {
       "type": "line",
@@ -52833,7 +52833,7 @@
       "containerId": null,
       "originalText": "Production/Release",
       "lineHeight": 1.25,
-      "baseline": 16
+      "baseline": 15
     },
     {
       "type": "text",
@@ -52871,7 +52871,7 @@
       "containerId": null,
       "originalText": "Main/Staging",
       "lineHeight": 1.25,
-      "baseline": 16
+      "baseline": 15
     },
     {
       "type": "text",
@@ -52909,7 +52909,7 @@
       "containerId": null,
       "originalText": "Development",
       "lineHeight": 1.25,
-      "baseline": 16
+      "baseline": 15
     },
     {
       "type": "text",
@@ -52952,7 +52952,7 @@
       "containerId": null,
       "originalText": "Feature #",
       "lineHeight": 1.25,
-      "baseline": 16
+      "baseline": 15
     },
     {
       "type": "line",
@@ -53974,7 +53974,7 @@
       "containerId": null,
       "originalText": "Project CI/CD",
       "lineHeight": 1.25,
-      "baseline": 28
+      "baseline": 26
     },
     {
       "type": "text",
@@ -54012,7 +54012,7 @@
       "containerId": null,
       "originalText": "Continuous Intergration (CI) and continuous delivery/development (CD)",
       "lineHeight": 1.25,
-      "baseline": 16
+      "baseline": 15
     },
     {
       "type": "line",
@@ -54668,7 +54668,7 @@
       "containerId": null,
       "originalText": "Databricks",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -54712,7 +54712,7 @@
       "containerId": null,
       "originalText": "Vertex AI",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "line",
@@ -57327,7 +57327,7 @@
       "containerId": null,
       "originalText": "dbt",
       "lineHeight": 1.2669208596893964,
-      "baseline": 41
+      "baseline": 39
     },
     {
       "type": "line",
@@ -58021,7 +58021,7 @@
       "containerId": null,
       "originalText": "P",
       "lineHeight": 1.2483837338928128,
-      "baseline": 8
+      "baseline": 7
     },
     {
       "type": "text",
@@ -58138,7 +58138,7 @@
       "containerId": null,
       "originalText": "E",
       "lineHeight": 1.2504577428602315,
-      "baseline": 8
+      "baseline": 7
     },
     {
       "type": "text",
@@ -58493,7 +58493,7 @@
       "containerId": null,
       "originalText": "Azure",
       "lineHeight": 1.2665057726978863,
-      "baseline": 27
+      "baseline": 25
     },
     {
       "type": "line",
@@ -60342,7 +60342,7 @@
       "containerId": null,
       "originalText": "jupyter",
       "lineHeight": 1.25,
-      "baseline": 23
+      "baseline": 22
     },
     {
       "type": "line",
@@ -62553,7 +62553,7 @@
       "containerId": null,
       "originalText": "Bigquery",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "line",
@@ -63609,7 +63609,7 @@
       "containerId": null,
       "originalText": "Cloud Shell",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "text",
@@ -63645,7 +63645,7 @@
       "containerId": null,
       "originalText": "Some History about Decision Tree",
       "lineHeight": 1.25,
-      "baseline": 34
+      "baseline": 32
     },
     {
       "type": "line",
@@ -65737,7 +65737,7 @@
       "containerId": null,
       "originalText": "Cloud Build",
       "lineHeight": 1.25,
-      "baseline": 15
+      "baseline": 14
     },
     {
       "type": "line",
@@ -65853,7 +65853,7 @@
       "containerId": null,
       "originalText": "Inpurity & Uncertainty",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -65889,7 +65889,7 @@
       "containerId": null,
       "originalText": "P",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -66865,7 +66865,7 @@
       "containerId": null,
       "originalText": "Information ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -66901,7 +66901,7 @@
       "containerId": null,
       "originalText": "Information ",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "arrow",
@@ -67037,7 +67037,7 @@
       "containerId": null,
       "originalText": "P: 0 -> 0.5",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
     },
     {
       "type": "text",
@@ -67078,7 +67078,145 @@
       "containerId": null,
       "originalText": "P: 0.5 -> 1.0",
       "lineHeight": 1.25,
-      "baseline": 19
+      "baseline": 18
+    },
+    {
+      "type": "ellipse",
+      "version": 2214,
+      "versionNonce": 1930335960,
+      "isDeleted": false,
+      "id": "mMZ0XY3PfxCQD1BMP4sKW",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "angle": 5.460625648275829,
+      "x": 609.5750194255932,
+      "y": 1309.7793693398646,
+      "strokeColor": "#fd7e14",
+      "backgroundColor": "#fd7e14",
+      "width": 111.15419484125854,
+      "height": 66.67158807120707,
+      "seed": 116236712,
+      "groupIds": [
+        "hlTlIZIOGbl86sJf4d19h",
+        "ObNniBjo-2nc2AdYqbt18"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725947361085,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "ellipse",
+      "version": 2419,
+      "versionNonce": 801504216,
+      "isDeleted": false,
+      "id": "cjAGf-lpVud499uERAkj9",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 5.460625648275829,
+      "x": 557.0620742312456,
+      "y": 1331.3646923423328,
+      "strokeColor": "#228be6",
+      "backgroundColor": "#228be6",
+      "width": 52.28714662399101,
+      "height": 60.691760248439536,
+      "seed": 521874600,
+      "groupIds": [
+        "hlTlIZIOGbl86sJf4d19h",
+        "ObNniBjo-2nc2AdYqbt18"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725947361085,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 1907,
+      "versionNonce": 172540120,
+      "isDeleted": false,
+      "id": "I3X4CIjpfGaxGur-ukzGn",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "angle": 0,
+      "x": 655.8383614323277,
+      "y": 1338.973820419222,
+      "strokeColor": "white",
+      "backgroundColor": "#228be6",
+      "width": 45.52734375,
+      "height": 15.38291741069054,
+      "seed": 257906600,
+      "groupIds": [
+        "hlTlIZIOGbl86sJf4d19h",
+        "ObNniBjo-2nc2AdYqbt18"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725947361085,
+      "link": null,
+      "locked": false,
+      "fontSize": 12.954035714265679,
+      "fontFamily": 3,
+      "text": "Scikit",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": null,
+      "originalText": "Scikit",
+      "lineHeight": 1.1875000000000036,
+      "baseline": 12
+    },
+    {
+      "type": "text",
+      "version": 1953,
+      "versionNonce": 1915413976,
+      "isDeleted": false,
+      "id": "Y0_TBG9g4FzIZvHmm9mlY",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "angle": 0,
+      "x": 640.2330126016279,
+      "y": 1344.107599356152,
+      "strokeColor": "#000000",
+      "backgroundColor": "#228be6",
+      "width": 97.060546875,
+      "height": 39.574979772720035,
+      "seed": 1541808808,
+      "groupIds": [
+        "hlTlIZIOGbl86sJf4d19h",
+        "ObNniBjo-2nc2AdYqbt18"
+      ],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1725947361085,
+      "link": null,
+      "locked": false,
+      "fontSize": 33.132541205067945,
+      "fontFamily": 3,
+      "text": "learn",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "learn",
+      "lineHeight": 1.1944444444444442,
+      "baseline": 32
     }
   ],
   "appState": {
