@@ -83,7 +83,7 @@ tornado @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_3a
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1704212992681/work
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1708904622550/work
 tzdata==2024.1
-urllib3==2.2.1
+urllib3==2.2.2
 virtualenv==20.25.1
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 Werkzeug==3.0.1
