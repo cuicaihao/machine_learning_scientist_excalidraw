@@ -168,3 +168,10 @@ cython_debug/
 notebooks/*.py 
 notebooks/*.txt
 notebooks/archive
+
+# ignore all the ml models
+*.ckpt
+*.pth
+
+
+
